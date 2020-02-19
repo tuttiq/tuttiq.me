@@ -29,11 +29,11 @@ $deep-saffron: #f2973c;
 $primary: $deep-saffron;
 $primary-invert: findColorInvert($primary);
 $dark: $chocolate;
-$dark-invert: findColorInvert($primary);
 $light: $platinum;
-$light-invert: findColorInvert($primary);
+$dark-invert: $light;
+$light-invert: $dark;
 $black: $licorice;
-$black-invert: findColorInvert($primary);
+$black-invert: $light;
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 
