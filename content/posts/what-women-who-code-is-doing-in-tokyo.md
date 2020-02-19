@@ -2,7 +2,9 @@
 title: What Women Who Code Is Doing In Tokyo
 subtitle: And in more than 60 other cities around the world as well.
 category:
-  - About Awake
+  - D&I
+  - Leadership
+  - Career
 author: tuttiq
 date: 2019-05-06T12:44:43.731Z
 featureImage: uploads/wwcode_tokyo.png
