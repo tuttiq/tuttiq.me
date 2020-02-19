@@ -7,7 +7,7 @@ category:
   - Career
 author: tuttiq
 date: 2019-05-06T12:44:43.731Z
-featureImage: uploads/wwcode_tokyo.png
+featureImage: /uploads/wwcode_tokyo.png
 ---
 ![](https://miro.medium.com/max/4240/1*7WMOoJY_2LWUJjnJBrLJfw.png)
 
