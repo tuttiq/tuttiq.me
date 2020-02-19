@@ -9,36 +9,34 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'tuttiq.me',
+  tagline: 'Tech | Leadership | Career | D&I',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    on: false
+    // id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'Home',
+      link: '/'
+    },
+    {
+      name: 'Content',
+      link: '/categories'
+    },
+    {
+      name: 'Projects & Organizations',
+      link: '/projects'
+    },
+    {
+      name: 'About me',
       link: '/about'
     },
     {
       name: 'Contact',
       link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
@@ -67,7 +65,7 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
+    heading: 'Subscribe to My Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to

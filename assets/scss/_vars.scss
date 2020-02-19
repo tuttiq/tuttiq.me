@@ -1,9 +1,39 @@
 // Import Bulma's core
 @import "~bulma/sass/utilities/_all";
 
+// Palette
+/* Coolors Exported Palette - coolors.co/7c3f10-131515-e8e9eb-e0dfd5-f2973c */
+
+/* HSL */
+$chocolate: hsla(26%, 77%, 27%, 1);
+$licorice: hsla(180%, 5%, 8%, 1);
+$platinum: hsla(220%, 7%, 92%, 1);
+$gainsboro: hsla(55%, 15%, 86%, 1);
+$deep-saffron: hsla(30%, 88%, 59%, 1);
+
+/* RGB */
+$chocolate: rgba(124, 63, 16, 1);
+$licorice: rgba(19, 21, 21, 1);
+$platinum: rgba(232, 233, 235, 1);
+$gainsboro: rgba(224, 223, 213, 1);
+$deep-saffron: rgba(242, 151, 60, 1);
+
+/* HEX */
+$chocolate: #7c3f10;
+$licorice: #131515;
+$platinum: #e8e9eb;
+$gainsboro: #e0dfd5;
+$deep-saffron: #f2973c;
+
 // Set your colors
-$primary: #00d1b2;
+$primary: $deep-saffron;
 $primary-invert: findColorInvert($primary);
+$dark: $chocolate;
+$dark-invert: findColorInvert($primary);
+$light: $platinum;
+$light-invert: findColorInvert($primary);
+$black: $licorice;
+$black-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 

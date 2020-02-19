@@ -1,6 +1,9 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="https://picsum.photos/1800/1801" />
+    <site-hero
+      title="Articles | Talks | Podcasts | etc"
+      image="/uploads/content-hero.jpg"
+    />
     <main-section theme="one-column">
       <categories-grid />
     </main-section>
@@ -10,7 +13,7 @@
 export default {
   head() {
     return {
-      title: `Categories | ${this.$siteConfig.siteName}`
+      title: `Content | ${this.$siteConfig.siteName}`
     }
   }
 }
