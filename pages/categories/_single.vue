@@ -2,7 +2,7 @@
   <div id="category-page" class="page-wrapper category-page">
     <site-hero
       :title="$store.state.name"
-      :subtitle="$store.state.content"
+      :subtitle="$store.state.description"
       :image="$store.state.image"
     />
     <main-section theme="sidebar-right">
@@ -12,9 +12,17 @@
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle">
-          All Categories
+          Categories
         </h3>
         <div class="panel">
+          <nuxt-link
+            :to="`/categories`"
+            :class="{
+              'panel-block': true
+            }"
+          >
+            All
+          </nuxt-link>
           <nuxt-link
             v-for="cat in allCats"
             :key="cat.slug"
