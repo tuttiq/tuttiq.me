@@ -8,13 +8,101 @@
         Subscribe To Newsletter
       </button>
     </site-hero>
-    <main-section theme="one-column">
+    <main-section theme="sidebar-right">
       <template v-slot:default>
-        <!-- All Posts -->
-        <posts-grid />
+        <p class="title">
+          Latest content
+        </p>
+        <posts-grid :per-row="3" :number="3" />
+
+        <p class="content has-text-centered">
+          <a class="button is-primary is-outlined" src="/content">
+            More posts
+          </a>
+        </p>
+        <p class="title">
+          Browse by category
+        </p>
+        <categories-grid :per-row="2" />
       </template>
+
       <template v-slot:sidebar>
-        Nothing here
+        <div class="content has-text-centered">
+          <span class="title">Meet Tutti</span>
+          <figure class="image profile">
+            <opti-image
+              class="is-rounded"
+              :src="require('~/assets/uploads/about-tuttiq.jpg').src"
+              :srcset="require('~/assets/uploads/about-tuttiq.jpg').srcSet"
+            />
+          </figure>
+          <p class="is-size-7 is-size-6-widescreen is-size-6-mobile">
+            💻 <code>@tuttiq</code> <br />
+            🗣 She / her / hers<br />
+            From 🇧🇷, living in 🇯🇵<br />
+            💼 Eng. Manager @
+            <a href="https://about.mercari.com/en/" target="_blank">Mercari</a>
+            <br />
+            🎗️ Director @
+            <a href="https://womenwhocode.com/tokyo" target="_blank">
+              WWCode Tokyo
+            </a>
+          </p>
+          <div class="social columns is-mobile">
+            <div class="column has-text-centered">
+              <a title="Facebook" href="https://facebook.com/tuttiquintella">
+                <img src="~/assets/uploads/facebook.svg" alt="Facebook" />
+              </a>
+            </div>
+            <div class="column has-text-centered">
+              <a title="Twitter" href="https://twitter.com/tuttiq">
+                <img
+                  className="fas fa-lg"
+                  src="~/assets/uploads/twitter.svg"
+                  alt="Twitter"
+                />
+              </a>
+            </div>
+            <div class="column has-text-centered">
+              <a title="Instagram" href="https://instagram.com/tuttiquintella">
+                <img src="~/assets/uploads/instagram.svg" alt="Instagram" />
+              </a>
+            </div>
+            <div class="column has-text-centered">
+              <a title="LinkedIn" href="https://linkedin.com/in/tuttiq">
+                <img src="~/assets/uploads/linkedin.svg" alt="LinkedIn" />
+              </a>
+            </div>
+            <div class="column has-text-centered">
+              <a title="Github" href="https://github.com/tuttiq">
+                <img src="~/assets/uploads/github.svg" alt="Github" />
+              </a>
+            </div>
+          </div>
+
+          <span class="title">
+            On Twitter
+          </span>
+          <blockquote class="twitter-tweet">
+            <p lang="en" dir="ltr">
+              “Glue work is the difference between a project that succeeds and
+              one that fails”<br /><br />
+              In teams without a project manager, it is likely to be considered
+              “non-promotable” work.<br /><br />Who should do it then? How to
+              recognize this work?<br /><br />Amazing piece by
+              <a href="https://twitter.com/whereistanya?ref_src=twsrc%5Etfw">
+                @whereistanya
+              </a>
+              <a href="https://t.co/PMHNNdEZzK">https://t.co/PMHNNdEZzK</a>
+            </p>
+            &mdash; Tutti Quintella (@tuttiq)
+            <a
+              href="https://twitter.com/tuttiq/status/1228537993750663168?ref_src=twsrc%5Etfw"
+            >
+              February 15, 2020
+            </a>
+          </blockquote>
+        </div>
       </template>
     </main-section>
     <news-letter-form-modal />
@@ -41,6 +129,12 @@ export default {
   },
   fetch({ store, params }) {
     setPageData(store, { slug: 'home' })
+  },
+  mounted() {
+    const twitterWidget = document.createElement('script')
+    twitterWidget.setAttribute('src', 'https://platform.twitter.com/widgets.js')
+    twitterWidget.async = true
+    document.head.appendChild(twitterWidget)
   }
 }
 </script>
@@ -48,5 +142,30 @@ export default {
 <style>
 .home-page .under-subtitle {
   border-top: none;
+}
+
+.image.profile {
+  max-width: 256px;
+}
+
+.twitter-tweet {
+  padding-top: 1em;
+}
+
+.social {
+  padding-top: 1em;
+}
+
+.social a {
+  padding: 0.5em 0.5em 0.3em 0.5em;
+  border-radius: 1em;
+  background-color: #e0dfd5;
+  vertical-align: middle;
+  display: inline;
+}
+
+.social img {
+  width: 1em;
+  height: 1em;
 }
 </style>
