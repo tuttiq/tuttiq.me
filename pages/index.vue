@@ -5,7 +5,7 @@
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
-        Subscribe To Newsletter
+        Subscribe to my newsletter
       </button>
     </site-hero>
     <main-section theme="sidebar-right">
@@ -32,8 +32,8 @@
           <figure class="image profile">
             <opti-image
               class="is-rounded"
-              :src="require('~/assets/uploads/about-tuttiq.jpg').src"
-              :srcset="require('~/assets/uploads/about-tuttiq.jpg').srcSet"
+              :src="require('~/static/img/about-tuttiq.jpg').src"
+              :srcset="require('~/static/img/about-tuttiq.jpg').srcSet"
             />
           </figure>
           <p class="is-size-7 is-size-6-widescreen is-size-6-mobile">
@@ -51,31 +51,31 @@
           <div class="social columns is-mobile">
             <div class="column has-text-centered">
               <a title="Facebook" href="https://facebook.com/tuttiquintella">
-                <img src="~/assets/uploads/facebook.svg" alt="Facebook" />
+                <img src="img/facebook.svg" alt="Facebook" />
               </a>
             </div>
             <div class="column has-text-centered">
               <a title="Twitter" href="https://twitter.com/tuttiq">
                 <img
                   className="fas fa-lg"
-                  src="~/assets/uploads/twitter.svg"
+                  src="img/twitter.svg"
                   alt="Twitter"
                 />
               </a>
             </div>
             <div class="column has-text-centered">
               <a title="Instagram" href="https://instagram.com/tuttiquintella">
-                <img src="~/assets/uploads/instagram.svg" alt="Instagram" />
+                <img src="img/instagram.svg" alt="Instagram" />
               </a>
             </div>
             <div class="column has-text-centered">
               <a title="LinkedIn" href="https://linkedin.com/in/tuttiq">
-                <img src="~/assets/uploads/linkedin.svg" alt="LinkedIn" />
+                <img src="img/linkedin.svg" alt="LinkedIn" />
               </a>
             </div>
             <div class="column has-text-centered">
               <a title="Github" href="https://github.com/tuttiq">
-                <img src="~/assets/uploads/github.svg" alt="Github" />
+                <img src="img/github.svg" alt="Github" />
               </a>
             </div>
           </div>
