@@ -1,8 +1,8 @@
 <template>
-  <div id="projects-page" class="page-wrapper about-page content-page">
+  <div id="projects-page" class="page-wrapper projects-page content-page">
     <site-hero
       title="Projects & Organizations"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/projects-hero.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -154,7 +154,7 @@
               and come to our local events
             </li>
             <li>
-              Join the conversation on Twitter by followintg
+              Join the conversation on Twitter by following
               <a href="https://twitter.com/TheLeadDev">
                 @TheLeadDev
               </a>
