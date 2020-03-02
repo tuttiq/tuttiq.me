@@ -8,7 +8,7 @@ author: tuttiq
 date: 2020-01-22T09:11:00.649Z
 featureImage: /uploads/engineering_culture.jpg
 ---
-Hi! 👋 I'm Tutti ([@tuttiq](https://twitter.com/tuttiq)), Engineering Manager at the Engineering Office team at [Mercari Japan](https://about.mercari.com/en/) (in case you haven't heard of [Mercari](https://www.mercari.com/jp/), it is the largest flea-marketplace in Japan, and also the first tech unicorn around here).
+Hi! 👋 I'm Tutti ([@tuttiq](https://twitter.com/tuttiq)), Engineering Manager at the Engineering Office team at [Mercari Japan](https://about.mercari.com/en/) (in case you haven't heard of [Mercari](https://www.mercari.com/jp/), it is the largest flea-market app in Japan, and also the first tech unicorn around here).
 
 Mercari's Engineering Office is not a traditional product development team. In fact, we are nothing like a product development team. We work on projects focused on organizational development and people growth across the Engineering division, such as improving the hiring and on-boarding experience for engineers, providing learning opportunities, creating an engaging work environment, and implementing better processes to enable and inspire our people to reach their full potential inside Mercari.
 
