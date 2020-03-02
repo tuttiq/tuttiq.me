@@ -1,6 +1,6 @@
 ---
-title: How Volunteering Can Advance Your Career
-subtitle: 'Professional skills, leadership experience and networking can be all free.'
+title: What Women Who Code Is Doing In Tokyo
+subtitle: And similarly in 70 other cities around the world
 category:
   - D&I
   - Leadership
