@@ -187,7 +187,7 @@ import SocialMedia from '~/components/SocialMedia'
 export default {
   head() {
     return {
-      title: `About | ${this.$siteConfig.siteName}`
+      title: `About me | ${this.$siteConfig.siteName}`
     }
   },
   components: {
