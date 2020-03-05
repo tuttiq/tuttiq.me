@@ -145,11 +145,14 @@ export default {
 }
 
 .image.profile {
-  max-width: 256px;
+  max-width: 156px;
+  margin: auto;
 }
 
 .twitter-tweet {
   padding-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .social {
