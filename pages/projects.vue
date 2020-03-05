@@ -313,8 +313,9 @@
               </ul>
             </li>
             <li>
-              Check out other (possibly) great ideas that never left the "Hello
-              World" stage on <a href="https://github.com/tuttiq">my github</a>.
+              Check out other <s>abandoned</s> ideas that never left the "Hello
+              World" stage on
+              <a href="https://github.com/tuttiq">my github</a> lol
             </li>
           </ul>
         </div>
