@@ -20,43 +20,7 @@
               </figure>
               <br />
               <div class="content">
-                <div class="social columns is-mobile">
-                  <div class="column has-text-centered">
-                    <a
-                      title="Facebook"
-                      href="https://facebook.com/tuttiquintella"
-                    >
-                      <img src="img/facebook.svg" alt="Facebook" />
-                    </a>
-                  </div>
-                  <div class="column has-text-centered">
-                    <a title="Twitter" href="https://twitter.com/tuttiq">
-                      <img
-                        className="fas fa-lg"
-                        src="img/twitter.svg"
-                        alt="Twitter"
-                      />
-                    </a>
-                  </div>
-                  <div class="column has-text-centered">
-                    <a
-                      title="Instagram"
-                      href="https://instagram.com/tuttiquintella"
-                    >
-                      <img src="img/instagram.svg" alt="Instagram" />
-                    </a>
-                  </div>
-                  <div class="column has-text-centered">
-                    <a title="LinkedIn" href="https://linkedin.com/in/tuttiq">
-                      <img src="img/linkedin.svg" alt="LinkedIn" />
-                    </a>
-                  </div>
-                  <div class="column has-text-centered">
-                    <a title="Github" href="https://github.com/tuttiq">
-                      <img src="img/github.svg" alt="Github" />
-                    </a>
-                  </div>
-                </div>
+                <social-media />
                 <p>
                   No need to be shy! Feel free to reach me in any of my social
                   media or send your message through this contact form and I'll
@@ -84,12 +48,13 @@
 </template>
 <script>
 import ContactForm from '~/components/ContactForm'
+import SocialMedia from '~/components/SocialMedia'
 export default {
   head() {
     return {
       title: `Contact | ${this.$siteConfig.siteName}`
     }
   },
-  components: { ContactForm }
+  components: { ContactForm, SocialMedia }
 }
 </script>

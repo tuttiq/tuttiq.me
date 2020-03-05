@@ -1,33 +1,7 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero title="About me" image="/uploads/about-hero.jpg">
-      <div class="social columns is-mobile">
-        <div class="column has-text-centered">
-          <a title="Facebook" href="https://facebook.com/tuttiquintella">
-            <img src="img/facebook.svg" alt="Facebook" />
-          </a>
-        </div>
-        <div class="column has-text-centered">
-          <a title="Twitter" href="https://twitter.com/tuttiq">
-            <img className="fas fa-lg" src="img/twitter.svg" alt="Twitter" />
-          </a>
-        </div>
-        <div class="column has-text-centered">
-          <a title="Instagram" href="https://instagram.com/tuttiquintella">
-            <img src="img/instagram.svg" alt="Instagram" />
-          </a>
-        </div>
-        <div class="column has-text-centered">
-          <a title="LinkedIn" href="https://linkedin.com/in/tuttiq">
-            <img src="img/linkedin.svg" alt="LinkedIn" />
-          </a>
-        </div>
-        <div class="column has-text-centered">
-          <a title="Github" href="https://github.com/tuttiq">
-            <img src="img/github.svg" alt="Github" />
-          </a>
-        </div>
-      </div>
+      <social-media></social-media>
     </site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -194,37 +168,7 @@
             out my <a href="/contact">Contact Form</a> on this website.
           </p>
 
-          <div class="social columns is-mobile">
-            <div class="column is-1 is-offset-3 has-text-centered">
-              <a title="Facebook" href="https://facebook.com/tuttiquintella">
-                <img src="img/facebook.svg" alt="Facebook" />
-              </a>
-            </div>
-            <div class="column is-1 has-text-centered">
-              <a title="Twitter" href="https://twitter.com/tuttiq">
-                <img
-                  className="fas fa-lg"
-                  src="img/twitter.svg"
-                  alt="Twitter"
-                />
-              </a>
-            </div>
-            <div class="column is-1 has-text-centered">
-              <a title="Instagram" href="https://instagram.com/tuttiquintella">
-                <img src="img/instagram.svg" alt="Instagram" />
-              </a>
-            </div>
-            <div class="column is-1 has-text-centered">
-              <a title="LinkedIn" href="https://linkedin.com/in/tuttiq">
-                <img src="img/linkedin.svg" alt="LinkedIn" />
-              </a>
-            </div>
-            <div class="column is-1 has-text-centered">
-              <a title="Github" href="https://github.com/tuttiq">
-                <img src="img/github.svg" alt="Github" />
-              </a>
-            </div>
-          </div>
+          <social-media />
         </div>
       </template>
 
@@ -238,11 +182,16 @@
   </div>
 </template>
 <script>
+import SocialMedia from '~/components/SocialMedia'
+
 export default {
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
+  },
+  components: {
+    SocialMedia
   }
 }
 </script>
