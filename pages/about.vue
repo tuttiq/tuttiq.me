@@ -256,21 +256,4 @@ export default {
   max-width: 300px;
   margin: auto;
 }
-
-.social {
-  padding-top: 1em;
-}
-
-.social a {
-  padding: 0.5em 0.5em 0.3em 0.5em;
-  border-radius: 1em;
-  background-color: #e0dfd5;
-  vertical-align: middle;
-  display: inline;
-}
-
-.social img {
-  width: 1em;
-  height: 1em;
-}
 </style>
