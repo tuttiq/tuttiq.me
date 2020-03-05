@@ -8,7 +8,7 @@ author: tuttiq
 date: 2019-04-24T08:40:06.042Z
 featureImage: /uploads/connect_sf.png
 ---
-Hi I’m Tutti, part of the Engineering Office team at Mercari and volunteer director of [Women Who Code](https://www.womenwhocode.com/) Tokyo chapter.
+Hi I’m Tutti, part of the Engineering Office team at [Mercari](https://about.mercari.com/en/) and volunteer director of [Women Who Code](https://www.womenwhocode.com/) Tokyo chapter.
 
 Recently, Women Who Code held their annual tech conference WWCode CONNECT in San Francisco, California, and Mercari was the first Japanese company to officially sponsor this conference. My manager Mike Omoto and I, in partnership with other teams, worked really hard on the sponsorship proposal so I’m really proud of this achievement!
 
@@ -51,4 +51,4 @@ But more than all of that, I feel like this experience was really important for 
 
 We are all so excited about being a part of the community and we feel so inspired to develop ourselves that we all decided to submit talk proposals for upcoming conferences.
 
-And that’s exactly what WWCode is trying to do as an organization, and what we at Mercari are supporting with partnerships like this: to inspire women to excel in technology careers. We are changing the face of tech, one action at a time.
+And that’s exactly what WWCode is trying to do as an organization, and partner companies are helping with their support: to inspire women to excel in technology careers. We are changing the face of tech, one action at a time.
