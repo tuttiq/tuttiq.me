@@ -20,37 +20,38 @@ export default {
       title: `${this.$store.state.title} | ${this.$siteConfig.siteName}`,
       meta: [
         {
+          hid: 'type',
+          name: 'type',
+          property: 'og:type',
+          content: 'website'
+        },
+        {
           hid: 'title',
           name: 'title',
+          property: 'og:title',
           content: this.$store.state.title
         },
         {
           hid: 'description',
           name: 'description',
-          content: this.$store.state.subtitle
-        },
-        {
-          hid: 'og:title',
-          property: 'og:title',
-          content: this.$store.state.title
-        },
-        {
-          hid: 'og:description',
           property: 'og:description',
           content: this.$store.state.subtitle
         },
         {
-          hid: 'og:image',
+          hid: 'image',
+          name: 'image',
           property: 'og:image',
           content: this.$store.state.featureImage
         },
         {
-          hid: 'og:url',
+          hid: 'url',
+          name: 'url',
           property: 'og:url',
           content: this.url
         },
         {
-          hid: 'og:site_name',
+          hid: 'site_name',
+          name: 'site_name',
           property: 'og:site_name',
           content: this.$siteConfig.siteName
         },
