@@ -223,10 +223,8 @@
             <div class="column">
               <figure class="image">
                 <opti-image
-                  :src="require('~/assets/uploads/tuttiqme_banner.png').src"
-                  :srcset="
-                    require('~/assets/uploads/tuttiqme_banner.png').srcSet
-                  "
+                  :src="require('~/static/banner.png').src"
+                  :srcset="require('~/static/banner.png').srcSet"
                 />
               </figure>
             </div>
