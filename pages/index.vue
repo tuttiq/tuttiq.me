@@ -1,6 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="subtitle" :image="featureImage">
+    <site-hero :title="subtitle" image="/uploads/home-hero.jpg">
       <button
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
