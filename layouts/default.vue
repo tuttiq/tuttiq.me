@@ -20,19 +20,24 @@ export default {
       title: `${this.$store.state.title} | ${this.$siteConfig.siteName}`,
       meta: [
         {
-          hid: 'description',
-          name: 'description',
-          content: this.$store.state.subtitle
+          hid: 'title',
+          name: 'title',
+          content: this.$store.state.title
         },
         {
-          hid: 'og:description',
-          property: 'og:description',
+          hid: 'description',
+          name: 'description',
           content: this.$store.state.subtitle
         },
         {
           hid: 'og:title',
           property: 'og:title',
           content: this.$store.state.title
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: this.$store.state.subtitle
         },
         {
           hid: 'og:image',
@@ -45,14 +50,34 @@ export default {
           content: this.url
         },
         {
-          hid: 'twitter:card',
-          name: 'twitter:card',
-          content: `summary_large_image`
-        },
-        {
           hid: 'og:site_name',
           name: 'og:site_name',
           content: this.$siteConfig.siteName
+        },
+        {
+          hid: 'twitter:card',
+          name: 'twitter:card',
+          content: 'summary_large_image'
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: this.$store.state.featureImage
+        },
+        {
+          hid: 'twitter:url',
+          name: 'twitter:url',
+          content: this.url
+        },
+        {
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: this.$store.state.title
+        },
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: this.$store.state.subtitle
         }
       ]
     }

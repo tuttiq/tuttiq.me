@@ -11,6 +11,9 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'tuttiq.me',
   tagline: 'Tech | Leadership | Career | D&I',
+  title: 'tuttiq.me - Tech | Leadership | Career | D&I',
+  subtitle:
+    'Stories of an engineering manager, community leader and D&I advocate.',
   featureImage: 'https://tuttiq.me/banner.png',
   logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
