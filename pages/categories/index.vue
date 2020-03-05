@@ -50,7 +50,6 @@ export default {
     }
   },
   async created() {
-    console.log('route.params.single: ' + this.$route.params)
     this.allCats = await this.$cms.category.getAll()
   }
 }

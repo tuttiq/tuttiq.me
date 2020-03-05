@@ -63,7 +63,6 @@ export default {
   },
   methods: {
     reset() {
-      console.log('resetting resource grid')
       this.resourceController.reset()
       this.page = 0
       this.allLoaded = false
