@@ -8,11 +8,9 @@ author: tuttiq
 date: 2019-04-24T08:40:06.042Z
 featureImage: /uploads/connect_sf.png
 ---
-Hi I’m Tutti, part of the Engineering Office team at Mercari, where I work on mentoring and training programs for engineers at Mercari, as well as knowledge sharing, engineering culture and community building.
+Hi I’m Tutti, part of the Engineering Office team at Mercari and volunteer director of [Women Who Code](https://www.womenwhocode.com/) Tokyo chapter.
 
-Aside from my work at Mercari, I’m also a volunteer director of Women Who Code Tokyo chapter. Women Who Code is a global non-profit organization dedicated to inspiring women to excel in technology careers.
-
-Recently, Women Who Code held their annual tech conference WWCode CONNECT in San Francisco, California, and Mercari was the first Japanese company to officially sponsor this conference. My manager Mike Omoto and I, in partnership with other teams, worked really hard on this proposal so I’m really proud of this achievement!
+Recently, Women Who Code held their annual tech conference WWCode CONNECT in San Francisco, California, and Mercari was the first Japanese company to officially sponsor this conference. My manager Mike Omoto and I, in partnership with other teams, worked really hard on the sponsorship proposal so I’m really proud of this achievement!
 
 For this conference, we had HR representatives from Mercari’s Japan and US offices, me and my manager from Engineering Office, Data/ML engineer Oshima-san who works at our Palo Alto office, and QA Engineering Manager Fujita-san who works in Tokyo.
 
@@ -36,16 +34,16 @@ I’ve spoken at meetups before, but this was only the second time I spoke at an
 
 ### Interview-prep Whiteboarding Session by Mike Omoto
 
-Mike Omoto is an Engineering Manager of the Engineering Gateway team here at Mercari. There were some rooms dedicated for interview-prep sessions at the conference and they invited Mike to run one of the sessions.
+Mike Omoto is an Engineering Manager of the Engineering Office team at Mercari. There were some rooms dedicated for interview-prep sessions at the conference and they invited Mike to run one of the sessions.
 
 Mike gave a really nice walk-through of an algorithms whiteboarding interview, but better than that, he explained what those interviews are actually trying to assess and how hiring managers or interviewers are usually evaluating the candidates.
 
-![](https://storage.googleapis.com/prd-hatena-mercan-asset/20190423201134.jpg) *Whiteboarding session with Mike*
+![](https://storage.googleapis.com/prd-hatena-mercan-asset/20190423201134.jpg)
+*Whiteboarding session with Mike*
 
 ## Afterglow of CONNECT 2019
 
-We all had a very good time at the WWCode CONNECT conference. A lot of people approached the Mercari booth and we were able to talk to them about our company and the Mercari app.\
-The feedback for both my talk and Mike’s session was overall really positive, so we are very happy about it.
+We all had a very good time at the WWCode CONNECT conference. A lot of people approached the Mercari booth and we were able to talk to them about our company and the Mercari app. The feedback for both my talk and Mike’s session was overall really positive, so we are very happy about it.
 
 But more than all of that, I feel like this experience was really important for my career as well as for all women in tech who attended or were speakers at this conference. Both our ML engineer Oshima-san and Engineering Manager Fujita-san had a really good experience for their career development as well by attending an international tech conference and collaborating between the Japan and US teams at Mercari.
 
