@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'tuttiq.me',
   tagline: 'Tech | Leadership | Career | D&I',
-  featureImage: 'banner.png',
+  featureImage: 'https://tuttiq.me/banner.png',
   logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false
