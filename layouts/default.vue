@@ -51,7 +51,7 @@ export default {
         },
         {
           hid: 'og:site_name',
-          name: 'og:site_name',
+          property: 'og:site_name',
           content: this.$siteConfig.siteName
         },
         {
@@ -61,22 +61,22 @@ export default {
         },
         {
           hid: 'twitter:image',
-          name: 'twitter:image',
+          property: 'twitter:image',
           content: this.$store.state.featureImage
         },
         {
           hid: 'twitter:url',
-          name: 'twitter:url',
+          property: 'twitter:url',
           content: this.url
         },
         {
           hid: 'twitter:title',
-          name: 'twitter:title',
+          property: 'twitter:title',
           content: this.$store.state.title
         },
         {
           hid: 'twitter:description',
-          name: 'twitter:description',
+          property: 'twitter:description',
           content: this.$store.state.subtitle
         }
       ]
