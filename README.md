@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c27d0b7-56fa-422c-8bc5-49183d6663a3/deploy-status)](https://app.netlify.com/sites/tuttiq-blog/deploys)
+
 My website uses Awake, a Nuxt.js template for generating a beautifully robust static site with blog. Deployed on Netlify.
 Check the deployed website here: https://tuttiq.me
 
