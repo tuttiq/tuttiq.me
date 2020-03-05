@@ -20,38 +20,42 @@ export default {
       title: `${this.$store.state.title} | ${this.$siteConfig.siteName}`,
       meta: [
         {
-          hid: 'type',
-          name: 'type',
-          property: 'og:type',
-          content: 'website'
-        },
-        {
           hid: 'title',
           name: 'title',
-          property: 'og:title',
           content: this.$store.state.title
         },
         {
           hid: 'description',
           name: 'description',
+          content: this.$store.state.subtitle
+        },
+        {
+          hid: 'title',
+          property: 'og:title',
+          content: this.$store.state.title
+        },
+        {
+          hid: 'description',
           property: 'og:description',
           content: this.$store.state.subtitle
         },
         {
+          hid: 'type',
+          property: 'og:type',
+          content: 'website'
+        },
+        {
           hid: 'image',
-          name: 'image',
           property: 'og:image',
-          content: this.$store.state.featureImage
+          content: this.url + this.$store.state.featureImage
         },
         {
           hid: 'url',
-          name: 'url',
           property: 'og:url',
           content: this.url
         },
         {
           hid: 'site_name',
-          name: 'site_name',
           property: 'og:site_name',
           content: this.$siteConfig.siteName
         },
@@ -59,26 +63,6 @@ export default {
           hid: 'twitter:card',
           name: 'twitter:card',
           content: 'summary_large_image'
-        },
-        {
-          hid: 'twitter:image',
-          property: 'twitter:image',
-          content: this.$store.state.featureImage
-        },
-        {
-          hid: 'twitter:url',
-          property: 'twitter:url',
-          content: this.url
-        },
-        {
-          hid: 'twitter:title',
-          property: 'twitter:title',
-          content: this.$store.state.title
-        },
-        {
-          hid: 'twitter:description',
-          property: 'twitter:description',
-          content: this.$store.state.subtitle
         }
       ]
     }
