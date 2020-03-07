@@ -10,12 +10,12 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'tuttiq.me',
-  tagline: 'Tech | Leadership | Career | D&I',
-  title: 'tuttiq.me - Tech | Leadership | Career | D&I',
-  subtitle:
-    'Stories of an engineering manager, community leader and D&I advocate.',
-  featureImage: 'https://tuttiq.me/banner.png',
-  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
+  url: 'https://tuttiq.me',
+  tagLine: 'Tech | Leadership | Career | D&I',
+  description:
+    "Tutti Quintella's personal website (tuttiq's blog). Stories of a software engineer turned into engineering manager, community leader and D&I advocate (for women and underrepresented folks in tech).",
+  featureImage: '/banner.png',
+  logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false
     // id: process.env.GOOGLE_ANALYTICS_ID
