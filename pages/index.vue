@@ -1,6 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="featureTitle" :image="bannerImage">
+    <site-hero :title="$siteConfig.tagLine" image="/uploads/home-hero.jpg">
       <button
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
@@ -89,9 +89,7 @@ export default {
   name: 'HomePage',
   head() {
     return {
-      title: `Home | ${this.$siteConfig.siteName}`,
-      featureTitle: this.$siteConfig.tagLine,
-      bannerImage: '/uploads/home-hero.jpg'
+      title: `Home | ${this.$siteConfig.siteName}`
     }
   },
   components: {
