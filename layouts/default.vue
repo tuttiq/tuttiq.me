@@ -59,6 +59,11 @@ export default {
           hid: 'twitter:card',
           name: 'twitter:card',
           content: 'summary_large_image'
+        },
+        {
+          hid: 'p:domain_verify',
+          name: 'p:domain_verify',
+          content: 'f7f41f032bb60f0c1c08094bb273f254'
         }
       ]
     }

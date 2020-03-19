@@ -3,3 +3,14 @@
   command = "npm run generate"
 [build.environment]
   NODE_VERSION = "11"
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+[dev]
+  command = "npm run dev" # Command to start your dev server
+  port = 3000 # Port that the dev server will be listening on
+  targetPort = 3000 # Port of target app server
+  publish = "dist" # If you use a _redirect file, provide the path to your static content folder
+  autoLaunch = true # a Boolean value that determines if Netlify Dev launches the local server address in your browser
