@@ -5,7 +5,7 @@ category:
   - Tech
 author: tuttiq
 date: 2020-03-20T05:35:19.637Z
-featureImage: /uploads/neural_net.png
+featureImage: /uploads/ai.jpg
 ---
 My **Study Notes** are a series of articles where I share my notes while studying a certain topic (it's part of the reinforcement phase of my learning cycle). As so, these articles **do not represent my applied experience** with the topics, but rather my theoretical knowledge of them (unless stated otherwise in the article).
 
