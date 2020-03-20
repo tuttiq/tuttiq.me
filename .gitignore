@@ -92,3 +92,6 @@ static/api
 
 # Local Netlify folder
 .netlify
+
+# Temp/test asset folder
+assets/tmp
