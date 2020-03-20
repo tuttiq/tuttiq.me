@@ -44,6 +44,18 @@ export default {
           content: this.$siteConfig.url + this.$store.state.featureImage
         },
         {
+          hid: 'image:width',
+          name: 'image:width',
+          property: 'og:image:width',
+          content: 1200
+        },
+        {
+          hid: 'image:height',
+          name: 'image:height',
+          property: 'og:image:height',
+          content: 630
+        },
+        {
           hid: 'url',
           name: 'url',
           property: 'og:url',
