@@ -4,6 +4,11 @@
   margin-top: 1em;
 }
 
+.content figure img {
+  width: unset;
+  margin: 0 auto;
+}
+
 .content iframe {
   min-height: 400px;
   width: 100%;
