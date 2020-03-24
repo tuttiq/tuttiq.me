@@ -19,7 +19,7 @@ But, as the internet and I already had a relationship, I found my way through th
 
 Then, the more I talked to people about the stuff I watched, the more questions I got about "how do you find this stuff?". That's when I realized what I was doing was non-trivial (especially for the average non-tech-savvy non-English-speaking Brazilian teenager with a 30kbps dial-up internet connection).
 
-In a nice impulse to help people, I found some free hosting services online (RIP[RapidShare](https://en.wikipedia.org/wiki/RapidShare)and[MegaUpload](https://en.wikipedia.org/wiki/Megaupload)) that I could upload the files I had and share a direct download link with the people that asked me (you can imagine that 1TB of Google cloud storage for US$5/month was not a thing at that time lol).
+In a nice impulse to help people, I found some free hosting services online (RIP [RapidShare](https://en.wikipedia.org/wiki/RapidShare) and [MegaUpload](https://en.wikipedia.org/wiki/Megaupload)) that I could upload the files I had and share a direct download link with the people that asked me (you can imagine that 1TB of Google cloud storage for US$5/month was not a thing at that time lol).
 
 Eventually I decided to create a blog to share the download links publicly. My blog never got too much attention, but I was mainly using it as a place to organize and share the download links with my friends, so I never stopped posting the new stuff I found. Eventually it had a significant amount of content that it started to catch some traffic and reach strangers online. Some of which were even engaged enough to leave comments there.
 
