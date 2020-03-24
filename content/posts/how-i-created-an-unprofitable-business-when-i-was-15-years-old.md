@@ -1,6 +1,8 @@
 ---
-title: How I Created an Unprofitable Business When I Was 15 Years Old
-subtitle: 'It''s a random stupid story, but kinda interesting I guess'
+title: >-
+  The Stupid Story of How I Created an Unprofitable Business When I Was 15 Years
+  Old
+subtitle: 'It''s a random, but kinda interesting I guess'
 category:
   - Career
 author: tuttiq
