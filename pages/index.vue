@@ -2,6 +2,7 @@
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="$siteConfig.tagLine" image="/uploads/home-hero.jpg">
       <button
+        v-if="$siteConfig.newsletter.on"
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
