@@ -89,6 +89,7 @@ sw.*
 
 #Awake CMS
 static/api
+static/admin
 
 # Local Netlify folder
 .netlify
