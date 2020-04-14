@@ -41,7 +41,9 @@ export default {
           hid: 'image',
           name: 'image',
           property: 'og:image',
-          content: this.$siteConfig.url + this.$store.state.featureImage
+          content:
+            (process.env.URL ? process.env.URL : '') +
+            require(`~/assets${this.$store.state.featureImage}`)
         },
         {
           hid: 'image:width',
@@ -59,7 +61,7 @@ export default {
           hid: 'url',
           name: 'url',
           property: 'og:url',
-          content: this.$siteConfig.url + this.$route.path
+          content: (process.env.URL ? process.env.URL : '') + this.$route.path
         },
         {
           hid: 'site_name',
