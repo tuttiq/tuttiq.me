@@ -14,7 +14,7 @@ export default {
   tagLine: 'Tech | Leadership | Career | D&I',
   description:
     "Tutti Quintella's personal website (tuttiq's blog). Stories of a software engineer turned into engineering manager, community leader and D&I advocate (for women and underrepresented folks in tech).",
-  featureImage: '/banner.png',
+  featureImage: '/uploads/banner.png',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false
