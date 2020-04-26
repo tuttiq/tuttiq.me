@@ -21,7 +21,7 @@ Of course, that’s all easier said than done. In the past 3 years, Mercari has 
 
 Although the number of employees grew quickly, the organization did not evolve at the same pace. That left us with the big challenge of updating and adapting our processes and culture to this new era at Mercari. And while updating processes may sound straight-forward and simple, we are not only updating documents and guidelines and expecting that people will follow them *(chances are that most people won’t anyways)*‚ — we are trying to define an inspiring culture which people **will embrace** and **foster in their daily work**. But…
 
-## How do you define culture in a large and diverse organization?
+### How do you define culture in a large and diverse organization?
 
 That was one of our biggest challenges. We noticed that the diversity which makes our engineering organization remarkable also brought several challenges. There were lots of disagreements on how things should be done, what should be considered a priority (from an engineering point of view), and how to evaluate people and their contributions.
 
@@ -33,7 +33,7 @@ So we decided to make this an open process and involve as many members of the en
 
 Yes, it was really challenging to gather that many opinions and feedback while we were trying to move the project forward. But we figured that it was the only way that we could bring most people on-board with us while making a huge change to the way engineers work. After a while, we were able to build trust among many engineers, and it was really nice to see the shift in the way they approached us, from questioning and worrying to actually looking forward to the next steps of the project and mentioning it in discussions with their peers (“this problem will be solved when we start using the Engineering Ladder”).
 
-## One step back: from Competencies to Principles
+### One step back: from Competencies to Principles
 
 While we were trying to gather the attributes that we considered really important to define great software engineers at Mercari, we created a list that included broad personality attributes (like “challenging with curiosity” and “continuous learning”) and also specific skill-based competencies (like “building reliable systems” and “solving problems at the root”). Our list already had 22 items and, the more feedback we received, the more we heard something else was missing.
 
@@ -49,7 +49,7 @@ We decided to map our engineering principles to our three company values: “Go 
 
 After we decided on the principles, it was time to dive back into defining specific competencies (now guided by these principles) and to write the expectations for each level of engineer.
 
-## Mercari Engineering Ladder (and the future)
+### Mercari Engineering Ladder (and the future)
 
 We define our ladder steps based on the Engineering Principles mentioned above. Actually, our ladder is more like a matrix (maybe we should change the name? :)).
 
