@@ -1,5 +1,5 @@
 ---
-name: Lifestyle & well-being
+name: Lifestyle & Well-being
 image: /uploads/lifestyle_cereal.jpg
-description: Personal growth, well-being, lifestyle and hobbies.
+description: Personal well-being, lifestyle and hobbies.
 ---
