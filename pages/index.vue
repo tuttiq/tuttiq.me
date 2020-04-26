@@ -14,7 +14,7 @@
         <p class="title">
           Latest content
         </p>
-        <posts-grid :per-row="3" :number="3" />
+        <posts-grid :per-row="2" :number="4" />
 
         <p class="content has-text-centered">
           <a class="button is-primary is-outlined" src="/content">
@@ -24,7 +24,7 @@
         <p class="title">
           Browse by category
         </p>
-        <categories-grid :per-row="2" />
+        <categories-grid :per-row="3" />
       </template>
 
       <template v-slot:sidebar>
