@@ -26,6 +26,11 @@ export default {
           content: this.$store.state.title
         },
         {
+          hid: 'title',
+          name: 'twitter:title',
+          content: this.$store.state.title
+        },
+        {
           hid: 'description',
           name: 'description',
           property: 'og:description',
@@ -79,6 +84,16 @@ export default {
           hid: 'p:domain_verify',
           name: 'p:domain_verify',
           content: 'f7f41f032bb60f0c1c08094bb273f254'
+        },
+        {
+          hid: 'twitter:site',
+          name: 'twitter:site',
+          content: '@tuttiq'
+        },
+        {
+          hid: 'twitter:creator',
+          name: 'twitter:creator',
+          content: '@tuttiq'
         }
       ]
     }
