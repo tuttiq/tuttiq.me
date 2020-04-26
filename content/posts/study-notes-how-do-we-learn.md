@@ -4,6 +4,7 @@ subtitle: Week 1 of the course "What Future For Education" on Coursera (by
   University of London)
 category:
   - Career
+  - Education
 author: tuttiq
 date: 2020-04-26T09:27:42.692Z
 featureImage: /uploads/studying_ipod.jpg
