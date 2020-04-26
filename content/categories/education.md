@@ -1,5 +1,5 @@
 ---
 name: Education
-image: /uploads/studying.jpg
+image: /uploads/education.png
 description: Education, learning/teaching methodologies, EdTech.
 ---
