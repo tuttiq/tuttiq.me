@@ -25,10 +25,8 @@ This talk intends to clarify this transition and expose some of the common probl
 
 I presented this talk in a few different conferences, the video below is from Women Who Code CONNECT Asia, that happened in Singapore on August 31st, 2019.  
 
-<iframesrc="https://www.youtube.com/embed/uooG9XYN2nA"allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uooG9XYN2nA"allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
 
 ### Slides
 
-Here are the slides. You can download them on my [SpeakerDeck](https://speakerdeck.com/tuttiq/scaling-software-development-teams-and-codebase).
-
-<script async class="speakerdeck-embed" data-id="b71581cd66f241a1a348c0b4df2c7661" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+You can download the slides on my [SpeakerDeck](https://speakerdeck.com/tuttiq/scaling-software-development-teams-and-codebase).
