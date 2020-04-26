@@ -17,7 +17,7 @@
         <posts-grid :per-row="2" :number="4" />
 
         <p class="content has-text-centered">
-          <a class="button is-primary is-outlined" src="/content">
+          <a class="button is-primary is-outlined" href="/categories">
             More posts
           </a>
         </p>
