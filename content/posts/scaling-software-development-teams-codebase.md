@@ -4,7 +4,7 @@ subtitle: A tech talk from 2019.
 category:
   - Tech
 author: tuttiq
-date: 2020-04-26T04:42:18.950Z
+date: 2019-08-31T04:42:18.950Z
 featureImage: /uploads/codebase_git.jpg
 ---
 This was a talk I gave in a few conferences in 2019. For now, I'm gonna share the slides and the video, but at some point I might turn it into a written article if I think it's worth it (let me know if that's something you'd be interested in reading).
