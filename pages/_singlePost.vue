@@ -65,6 +65,9 @@ export default {
 }
 </script>
 <style scoped lang="scss">
+.other-posts {
+  margin-top: 3em;
+}
 .edit-post {
   margin-bottom: 20px;
 }

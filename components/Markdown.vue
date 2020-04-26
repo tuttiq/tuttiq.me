@@ -1,5 +1,8 @@
 <template>
-  <v-runtime-template class="content" :template="content"></v-runtime-template>
+  <v-runtime-template
+    class="content blog-post"
+    :template="content"
+  ></v-runtime-template>
 </template>
 
 <script>

@@ -16,6 +16,29 @@
   border: 1px solid $gainsboro;
 }
 
+.blog-post {
+  font-family: medium-content-serif-font, Georgia, Cambria, 'Times New Roman',
+    Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  letter-spacing: -0.004em;
+  line-height: 1.58;
+  word-break: break-word;
+
+  p {
+    margin-top: 2em;
+
+    &:first-child {
+      margin-top: 0.5em;
+    }
+
+    &:last-child {
+      margin-bottom: 1em;
+    }
+  }
+}
+
 @media screen and (max-width: 560px) {
   .content iframe {
     min-height: 200px;
