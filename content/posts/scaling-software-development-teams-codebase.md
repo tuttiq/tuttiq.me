@@ -3,6 +3,13 @@ title: "Scaling Software Development: Teams & Codebase"
 subtitle: A tech talk from 2019.
 category:
   - Tech
+tags:
+  - conferences
+  - leadership
+  - talk/presentation
+  - tech
+  - video
+  - women who code
 author: tuttiq
 date: 2019-08-31T04:42:18.950Z
 featureImage: /uploads/codebase_git.jpg
