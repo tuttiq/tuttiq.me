@@ -11,7 +11,7 @@
       </a>
     </div>
     <div class="column has-text-centered">
-      <a title="Instagram" href="https://instagram.com/tuttiquintella">
+      <a title="Instagram" href="https://instagram.com/tuttiq.me">
         <img src="img/instagram.svg" alt="Instagram" />
       </a>
     </div>
@@ -27,3 +27,22 @@
     </div>
   </div>
 </template>
+
+<style>
+.social {
+  padding-top: 1em;
+}
+
+.social a {
+  padding: 0.5em 0.5em 0.3em 0.5em;
+  border-radius: 1em;
+  background-color: #e0dfd5;
+  vertical-align: middle;
+  display: inline;
+}
+
+.social img {
+  width: 1em;
+  height: 1em;
+}
+</style>
