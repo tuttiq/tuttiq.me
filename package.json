@@ -1,8 +1,8 @@
 {
-  "name": "nuxtlify",
+  "name": "tuttiq.me",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "description": "Personal website using Nuxt.js/Netlify",
+  "author": "Tutti Q.",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
