@@ -91,6 +91,14 @@ export default {
     theme: null // See card.theme (can be unique for categories if set here)
   },
 
+  // Tags
+  tags: {
+    on: true,
+    perPage: 6,
+    imageDimensions: null, // See card.imageDimensions (can be unique for tags if set here)
+    theme: null // See card.theme (can be unique for tags if set here)
+  },
+
   // Posts
   posts: {
     on: true,
