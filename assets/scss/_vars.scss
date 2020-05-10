@@ -28,6 +28,8 @@ $deep-saffron: #f2973c;
 // Set your colors
 $primary: $deep-saffron;
 $primary-invert: findColorInvert($primary);
+$secondary: $gainsboro;
+$secondary-invert: findColorInvert($secondary);
 $dark: $chocolate;
 $light: $platinum;
 $dark-invert: $light;
@@ -44,6 +46,7 @@ $colors: (
   "light": ($light, $light-invert),
   "dark": ($dark, $dark-invert),
   "primary": ($primary, $primary-invert),
+  "secondary": ($secondary, $secondary-invert),
   "info": ($info, $info-invert),
   "success": ($success, $success-invert),
   "warning": ($warning, $warning-invert),
