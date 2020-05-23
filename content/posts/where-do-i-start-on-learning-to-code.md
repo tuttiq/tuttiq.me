@@ -1,5 +1,5 @@
 ---
-title: Where Do I Start (on learning to code)?
+title: Where Do I Start (learning to code)?
 subtitle: An introduction to Software Development from the very beginning
 category:
   - Tech
