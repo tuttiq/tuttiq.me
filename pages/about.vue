@@ -23,7 +23,7 @@
             </div>
             <div class="column is-one-third">
               <figure class="image img-small">
-                <opti-image
+                <img
                   class="is-rounded"
                   :src="require('~/static/img/about-tuttiq.jpg').src"
                   :srcset="require('~/static/img/about-tuttiq.jpg').srcSet"
@@ -81,7 +81,7 @@
             </div>
             <div class="column">
               <figure class="image">
-                <opti-image
+                <img
                   :src="require('~/assets/uploads/mercari-build.jpg').src"
                   :srcset="require('~/assets/uploads/mercari-build.jpg').srcSet"
                 />
@@ -115,7 +115,7 @@
           <div class="columns is-desktop">
             <div class="column">
               <figure class="image">
-                <opti-image
+                <img
                   :src="require('~/assets/uploads/tuttiq_speaking.png').src"
                   :srcset="
                     require('~/assets/uploads/tuttiq_speaking.png').srcSet

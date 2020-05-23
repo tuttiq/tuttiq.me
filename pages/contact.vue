@@ -13,7 +13,7 @@
                 What can I do for you?
               </p>
               <figure class="image">
-                <opti-image
+                <img
                   :src="require('~/static/img/about-tuttiq.jpg').src"
                   :srcset="require('~/static/img/about-tuttiq.jpg').srcSet"
                 />

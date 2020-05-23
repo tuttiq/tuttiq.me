@@ -31,7 +31,7 @@
         <div class="content has-text-centered">
           <span class="title">Meet Tutti</span>
           <figure class="image profile">
-            <opti-image
+            <img
               class="is-rounded"
               :src="require('~/static/img/about-tuttiq.jpg').src"
               :srcset="require('~/static/img/about-tuttiq.jpg').srcSet"

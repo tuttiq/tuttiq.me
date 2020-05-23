@@ -3,7 +3,7 @@
     <div class="card-image">
       <component :is="link ? 'nuxt-link' : 'span'" :to="link">
         <figure :class="`image is-${imageRatioClass}`">
-          <opti-image
+          <img
             v-if="image"
             :src="responsiveImage.src"
             :srcset="responsiveImage.srcSet"
@@ -11,7 +11,6 @@
             :height="imageRatio[1]"
             :sizes="`(min-width: 768px) ${100 / $siteConfig.posts.perRow}vw`"
           />
-          <loading-spinner position="absolute" />
         </figure>
       </component>
     </div>
@@ -102,9 +101,6 @@ export default {
 }
 </style>
 <style lang="scss">
-.opti-image-loaded + .spinner-wrapper {
-  display: none;
-}
 .card img {
   transition: 0.8s ease-in-out all;
   &:hover {

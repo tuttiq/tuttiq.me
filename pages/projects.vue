@@ -37,7 +37,7 @@
             </div>
             <div class="column">
               <figure class="image">
-                <opti-image
+                <img
                   :src="require('~/assets/uploads/wwcode_tokyo.png').src"
                   :srcset="require('~/assets/uploads/wwcode_tokyo.png').srcSet"
                 />
@@ -129,7 +129,7 @@
             </div>
             <div class="column">
               <figure class="image">
-                <opti-image
+                <img
                   :src="require('~/assets/uploads/leaddev_banner.png').src"
                   :srcset="
                     require('~/assets/uploads/leaddev_banner.png').srcSet
@@ -222,7 +222,7 @@
             </div>
             <div class="column">
               <figure class="image">
-                <opti-image
+                <img
                   :src="require('~/static/banner.png').src"
                   :srcset="require('~/static/banner.png').srcSet"
                 />
