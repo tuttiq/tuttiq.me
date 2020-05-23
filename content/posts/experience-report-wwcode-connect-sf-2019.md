@@ -1,9 +1,15 @@
 ---
-title: 'Experience report: WWCode CONNECT SF 2019'
+title: "Experience report: WWCode CONNECT SF 2019"
 subtitle: Highlights of my experience as a speaker and a sponsor
 category:
   - D&I
   - Career
+tags:
+  - women who code
+  - conferences
+  - events
+  - talk/presentation
+  - career
 author: tuttiq
 date: 2019-04-24T08:40:06.042Z
 featureImage: /uploads/connect_sf.png
@@ -14,7 +20,7 @@ Recently, Women Who Code held their annual tech conference WWCode CONNECT in San
 
 For this conference, we had HR representatives from Mercari’s Japan and US offices, me and my manager from Engineering Office, Data/ML engineer Oshima-san who works at our Palo Alto office, and QA Engineering Manager Fujita-san who works in Tokyo.
 
-![](https://storage.googleapis.com/prd-hatena-mercan-asset/20190423193505.jpg) *Members at the Mercari booth*
+![Members at the Mercari booth](https://storage.googleapis.com/prd-hatena-mercan-asset/20190423193505.jpg)
 
 ## Highlights of CONNECT 2019
 
@@ -38,8 +44,7 @@ Mike Omoto is an Engineering Manager of the Engineering Office team at Mercari. 
 
 Mike gave a really nice walk-through of an algorithms whiteboarding interview, but better than that, he explained what those interviews are actually trying to assess and how hiring managers or interviewers are usually evaluating the candidates.
 
-![](https://storage.googleapis.com/prd-hatena-mercan-asset/20190423201134.jpg)
-*Whiteboarding session with Mike*
+![Whiteboarding session with Mike](https://storage.googleapis.com/prd-hatena-mercan-asset/20190423201134.jpg)
 
 ## Afterglow of CONNECT 2019
 
