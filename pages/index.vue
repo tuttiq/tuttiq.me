@@ -82,7 +82,7 @@
 
 <script>
 import { mapState } from 'vuex'
-import { setPageData } from '../helper'
+import { setPageData, loadPageWidgets } from '../helper'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 import SocialMedia from '~/components/SocialMedia'
 
@@ -104,10 +104,7 @@ export default {
     setPageData(store, { slug: 'home' })
   },
   mounted() {
-    const twitterWidget = document.createElement('script')
-    twitterWidget.setAttribute('src', 'https://platform.twitter.com/widgets.js')
-    twitterWidget.async = true
-    document.head.appendChild(twitterWidget)
+    loadPageWidgets()
   }
 }
 </script>
