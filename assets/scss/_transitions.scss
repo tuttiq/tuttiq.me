@@ -18,14 +18,4 @@
   overflow:hidden;
   background:$white;
 }
-.opti-image{
-  transition: 0.2s ease opacity, 0.2s ease filter;
-  opacity:1;
-  filter: blur(0);
-}
-
-.opti-image-before-load{
-  opacity:0;
-  filter: blur(10px);
-}
 /* purgecss end ignore */

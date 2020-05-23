@@ -83,13 +83,6 @@ export default {
   border-top: 2px solid $primary;
   padding-top: 5px;
 }
-.opti-image {
-  opacity: 0;
-}
-.opti-image-loaded {
-  opacity: 0.12;
-  animation: blurIn 4.5s ease;
-}
 </style>
 <style lang="scss">
 .hero {
@@ -103,20 +96,10 @@ export default {
     width: 100%;
     height: 100%;
   }
-  .opti-image {
-    opacity: 0;
-  }
-  .opti-image-loaded {
-    opacity: 1;
-  }
 }
 .hero-theme-mist {
   .hero-bg-img {
     filter: grayscale(1);
-  }
-  .opti-image-loaded {
-    opacity: 0.12;
-    animation: blurInGrayscale 4.5s ease;
   }
 }
 .hero-theme-dark,
