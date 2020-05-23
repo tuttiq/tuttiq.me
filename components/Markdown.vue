@@ -53,7 +53,6 @@ export default {
           }
 
           const optiImage = image
-            .replace('<img', '<opti-image')
             .replace('>', '/>')
             .replace(/src="([^"]*)"/g, replace)
           html = html.replace(image, optiImage)
