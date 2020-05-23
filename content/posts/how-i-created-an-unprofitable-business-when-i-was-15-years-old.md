@@ -1,8 +1,11 @@
 ---
 title: The Stupid Story of How I Created an Unprofitable Business When I Was 15
-subtitle: 'It''s a random, but kinda interesting I guess'
+subtitle: It's a random, but kinda interesting I guess
 category:
   - Career
+tags:
+  - tech
+  - career
 author: tuttiq
 date: 2020-03-24T05:16:20.411Z
 featureImage: /uploads/accounting_typewritter.jpeg
