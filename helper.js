@@ -33,3 +33,20 @@ export const getFormattedDate = (date) => {
     months[dateObj.getMonth()]
   } ${dateObj.getDate()}, ${dateObj.getFullYear()}`
 }
+
+export const loadPageWidgets = () => {
+  // Twitter widget
+  const twitterWidget = document.createElement('script')
+  twitterWidget.setAttribute('src', 'https://platform.twitter.com/widgets.js')
+  twitterWidget.async = true
+  document.head.appendChild(twitterWidget)
+
+  // SpeakerDeck widget
+  const speakerDeckWidget = document.createElement('script')
+  speakerDeckWidget.setAttribute(
+    'src',
+    'https://speakerdeck.com/assets/embed.js'
+  )
+  speakerDeckWidget.async = true
+  document.head.appendChild(speakerDeckWidget)
+}
