@@ -29,7 +29,7 @@ export default {
         .use(require('markdown-it-footnote'))
       let html = md.render(this.markdown)
 
-      html = this.useResponsiveImages(html)
+      html = this.wrapResponsiveImages(html)
       html = this.wrapTable(html)
       html = html.replace(/<table>/g, '<table class="table is-striped">')
 
@@ -37,26 +37,38 @@ export default {
     }
   },
   methods: {
-    useResponsiveImages(html) {
+    wrapResponsiveImages(html) {
       const images = html.match(/<img(.*?)>/g)
       if (images) {
         images.forEach((image) => {
-          // const generatedImage = require('~/assets')
-          const origImage = image
+          const imgSrc = image
             .match(/src="([^"]*)"/g)[0]
             .replace('src="', '')
             .replace('"', '')
-          let replace = `src="${origImage}"`
-          if (origImage.startsWith('/')) {
-            const generatedImage = require(`~/assets${origImage}`)
-            replace = `src="${generatedImage.src}" srcset="${generatedImage.srcSet}"`
+
+          let newImgSrc = `src="${imgSrc}"`
+
+          if (imgSrc.startsWith('/')) {
+            const computedImage = require(`~/assets${imgSrc}`)
+            newImgSrc = `src="${computedImage.src}" srcset="${computedImage.srcSet}"`
           }
+
+          const imgCaption = image
+            .match(/alt="([^"]*)"/g)[0]
+            .replace('alt="', '')
+            .replace('"', '')
 
           const optiImage = image
             .replace('<img', '<opti-image')
             .replace('>', '/>')
-            .replace(/src="([^"]*)"/g, replace)
-          html = html.replace(image, optiImage)
+            .replace(/src="([^"]*)"/g, newImgSrc)
+
+          const wrappedImg =
+            `<figure class="image">${optiImage}` +
+            `<figcaption>${imgCaption}</figcaption>` +
+            `</figure>`
+
+          html = html.replace(image, wrappedImg)
         })
       }
       return html
