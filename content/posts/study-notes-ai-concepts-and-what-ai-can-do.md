@@ -1,8 +1,12 @@
 ---
-title: '[Study Notes] AI Concepts and What AI Can Do'
+title: "[Study Notes] AI Concepts and What AI Can Do"
 subtitle: Part 1 of my study notes of the course "AI For Everyone"
 category:
   - Tech
+tags:
+  - tech
+  - study notes
+  - online courses
 author: tuttiq
 date: 2020-03-20T05:35:19.637Z
 featureImage: /uploads/ai.jpg
@@ -36,10 +40,7 @@ This is just **part 1** of my study notes for this course. I'll write-up the fol
 
 **Data:** Sets of information. Most commonly organized in datasets (like lists, tables, etc).
 
-<figure class="image">
-  <img src="/uploads/dataset.png">
-  <figcaption>Example of a dataset</figcaption>
-</figure>
+![Example of a dataset](/uploads/dataset.png)
 
 **Structured data:** Numbers, text, flags, etc
 
@@ -49,9 +50,7 @@ This is just **part 1** of my study notes for this course. I'll write-up the fol
 
 **Data Science:** Science of extracting knowledge and insights from data ⇒ Slide deck, reports, graphs
 
-<figure class="image">
-  <img src="/uploads/ai_ml_dl_ds_1.png">
-</figure>
+![](/uploads/ai_ml_dl_ds_1.png)
 
 This is the diagram used to explain these common AI concepts. AI the huge field of study, technologies and techniques to make computers and machines more autonomous. Machine Learning is a subset of AI tools and techniques, Deep Learning (nowadays used almost interchangeably with the term Neural Networks) is a subset of Machine Learning tools and techniques and Data Science is another field of study, tools and techniques for treating and analyzing data, that incorporates some AI but also a bunch of other stuff that's not considered AI.
 
@@ -59,9 +58,7 @@ This is the diagram used to explain these common AI concepts. AI the huge field 
 
 **Supervised learning:** The most common and already widely used type of machine learning, that maps an input A to an output B.
 
-<figure class="image">
-  <img src="/uploads/ai_applications.png">
-</figure>
+![](/uploads/ai_applications.png)
 
 An imperfect rule of thumb for what this type of machine learning can do: *if a human can do it in a few seconds, it can be automated.*
 
@@ -71,17 +68,13 @@ One **neuron** is an individual node of the network that computes a simple funct
 
 Stack a bunch of neurons and you have a **neural network** that can compute more complex functions with good accuracy of the relation between input and output.
 
-<figure class="image">
-  <img src="/uploads/neural_net.png">
-</figure>
+![](/uploads/neural_net.png)
 
 When you train a ML model, mainly you have to provide a large dataset of **input** and **output**, and the learning algorithm will figure out the computations needed to create a relation between them. The structure of the network and the training figures are usually pre-defined, but recently there's more work being done to automate the structure too.
 
 Also, with some constraints, usually the more data you have to feed into a ML model, the better it will perform at the automated task. But of course there's a threshold after which more data doesn't help improving performance anymore. Naturally as well, larger (more complex) neural networks will perform better than smaller ones (and require more computational power). AI models performance can be somewhat generalized on the graph below:
 
-<figure class="image">
-  <img src="/uploads/ai_performance.png">
-</figure>
+![](/uploads/ai_performance.png)
 
 *OBS: Reminder that performance here is not computational performance (as in speed of processing), it's how well the ML model can perform the automated task (how good/accurate/useful are the results).*
 
@@ -108,9 +101,7 @@ But this rule over-simplifies a bit and ignores the paradox that sometimes AI ca
 
 > "Contrary to traditional assumptions, reasoning (which is high-level in humans) requires very little computation, but sensorimotor skills (comparatively low-level in humans) require enormous computational resources. \[...] As Moravec writes, 'it is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility'."
 
-
-----
-
+- - -
 
 This was the first section of my study notes for this course. The next parts will include the following topics:
 
