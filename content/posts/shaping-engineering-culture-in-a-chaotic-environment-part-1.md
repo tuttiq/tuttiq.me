@@ -4,6 +4,10 @@ subtitle: How we're doing it at Mercari with an engineering organization of 300+
 category:
   - Leadership
   - Career
+tags:
+  - leadership
+  - career
+  - management
 author: tuttiq
 date: 2019-12-18T09:11:00.649Z
 featureImage: /uploads/engineering_culture.jpg
@@ -14,10 +18,7 @@ Mercari's Engineering Office is not a traditional product development team. In f
 
 Of course, that’s all easier said than done. In the past 3 years, Mercari has grown rapidly, the company’s total headcount quintupled, and a large portion of the growth was in the engineering division.
 
-<figure class="image">
-  <img src="/uploads/mercari_headcount.png">
-  <figcaption>Mercari's total headcount over the years</figcaption>
-</figure>
+![Mercari's total headcount over the years](/uploads/mercari_headcount.png)
 
 Although the number of employees grew quickly, the organization did not evolve at the same pace. That left us with the big challenge of updating and adapting our processes and culture to this new era at Mercari. And while updating processes may sound straight-forward and simple, we are not only updating documents and guidelines and expecting that people will follow them *(chances are that most people won’t anyways)*‚ — we are trying to define an inspiring culture which people **will embrace** and **foster in their daily work**. But…
 
@@ -41,9 +42,7 @@ That’s when we realized we had to take a step back, and distinguish between **
 
 After more analysis, discussion, writing and rewriting, we finally reached a consensus on our new **Mercari Engineering Principles**, which are 9 principles to define our culture and guide our decisions.
 
-<figure class="image">
-  <img src="https://miro.medium.com/max/1034/0*rvWrP_Wmb6oYlnsM.png">
-</figure>
+![](https://miro.medium.com/max/1034/0*rvWrP_Wmb6oYlnsM.png)
 
 We decided to map our engineering principles to our three company values: “Go Bold”, “All For One” and “Be A Pro”, to strengthen the sentiment of alignment. We also chose to phrase them with action verbs in an encouraging tense (like **Seek**, **Focus** and **Strive**). We wrote short descriptions for each one of them and also provided a more detailed version for further clarification.
 
@@ -53,19 +52,13 @@ After we decided on the principles, it was time to dive back into defining speci
 
 We define our ladder steps based on the Engineering Principles mentioned above. Actually, our ladder is more like a matrix (maybe we should change the name? :)).
 
-<figure class="image">
-<img src="https://miro.medium.com/max/1200/0*Ppbvcns7yPSCVCNy.png">
-<figcaption>The format we are using to define our Engineering Ladder</figcaption>
-</figure>
+![The format we are using to define our Engineering Ladder](https://miro.medium.com/max/1200/0*Ppbvcns7yPSCVCNy.png)
 
 As you can imagine, defining skills and expectations for all levels of engineers (we currently have 5), following each of the 9 engineering principles is not an easy task. We have been through several drafts and three Release Candidate versions, and the final v1.0 of the Mercari Engineering Ladder is planned to be finalized this month (almost there, team!).
 
 Once the ladder is released, we will start using it as a guideline for many of our operations: hiring, on-boarding, in-house training, evaluation and promotion. This will not only give a clear path for engineers to plan their career progression, but it will also help us achieve more consistency, alignment and fairness as an organization.
 
-<figure class="image">
-  <img src="https://miro.medium.com/max/1200/0*jU50wX9ubH0J5zch.png">
-  <figcaption>The conceptual framework of the Engineering Principles and Career Ladder</figcaption>
-</figure>
+![The conceptual framework of the Engineering Principles and Career Ladder](https://miro.medium.com/max/1200/0*jU50wX9ubH0J5zch.png)
 
 This is only Chapter One of our story defining and shaping our engineering culture at Mercari. We know that we cannot change culture by only writing guidelines and processes. Culture is defined by values, and our actions and decisions (what we reward and what we discourage) have to reflect our values. That’s why we believe that defining our principles and applying them to our hiring and evaluation process is so important. In the future we will write about these following steps as well.
 
