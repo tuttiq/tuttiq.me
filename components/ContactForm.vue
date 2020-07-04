@@ -3,7 +3,7 @@
     name="contact-form"
     method="POST"
     data-netlify="true"
-    action="/contact/?status=success"
+    action="/contact?status=success"
   >
     <!-- Name -->
     <div class="field">
