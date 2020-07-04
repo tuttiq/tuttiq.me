@@ -1,10 +1,15 @@
 <template>
-  <form netlify>
+  <form netlify name="contact-form">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="Sarah Connor" />
+        <input
+          name="name"
+          class="input is-medium"
+          type="text"
+          placeholder="Sarah Connor"
+        />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -15,6 +20,7 @@
       <label class="label is-medium">Email</label>
       <div class="control has-icons-left">
         <input
+          name="email"
           class="input is-medium"
           type="email"
           placeholder="you@email.com"
@@ -29,6 +35,7 @@
       <label class="label is-medium">Subject</label>
       <div class="control has-icons-left">
         <input
+          name="subject"
           class="input is-medium"
           type="text"
           placeholder="Brief summary"
@@ -43,6 +50,7 @@
       <label class="label is-medium">Message</label>
       <div class="control">
         <textarea
+          name="message"
           class="textarea"
           placeholder="Write your message here"
           rows="8"
