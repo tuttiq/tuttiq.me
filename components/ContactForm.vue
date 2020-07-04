@@ -5,6 +5,7 @@
     data-netlify="true"
     action="/contact?status=success"
   >
+    <input type="hidden" name="form-name" value="contact-form" />
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
