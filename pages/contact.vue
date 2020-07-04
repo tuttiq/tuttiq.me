@@ -31,6 +31,13 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
+              <div
+                v-if="successMessage"
+                class="notification is-primary is-light"
+              >
+                <button class="delete" @click="closeNotification"></button>
+                Thank you for your message!
+              </div>
               <contact-form />
             </article>
           </div>
@@ -55,6 +62,23 @@ export default {
       title: `Contact | ${this.$siteConfig.siteName}`
     }
   },
-  components: { ContactForm, SocialMedia }
+  components: {
+    ContactForm,
+    SocialMedia
+  },
+  data: () => ({
+    successMessage: false
+  }),
+  mounted() {
+    this.checkSuccess()
+  },
+  methods: {
+    checkSuccess() {
+      this.successMessage = this.$route.query.status === 'success'
+    },
+    closeNotification() {
+      this.successMessage = false
+    }
+  }
 }
 </script>
