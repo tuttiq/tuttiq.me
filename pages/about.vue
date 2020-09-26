@@ -36,10 +36,16 @@
             A quick summary of my career
           </h4>
           <p>
-            I have a weird story of how I got into programming, but I actually
-            majored in Computer Engineering (which, back at that time, was
-            basically Computer Science + some random Engineering core subjects
-            like Mechanics, Chemistry and a sh*t ton of Calculus and Physics).
+            I have
+            <a
+              href="/how-i-created-an-unprofitable-business-when-i-was-15-years-old"
+            >
+              a weird story of how I got into programming
+            </a>
+            , but I actually majored in Computer Engineering (which, back at
+            that time, was basically Computer Science + some random Engineering
+            core subjects like Mechanics, Chemistry and a ton of Calculus and
+            Physics).
           </p>
           <p>
             On my 4th year of college (2011) I started working as a Software
@@ -50,36 +56,63 @@
             for an EdTech startup named
             <a href="https://www.quipper.com/">Quipper</a>.
           </p>
-          <p>
-            Quipper was acquired by the giant Japanese corporation
-            <a href="https://recruit-holdings.com/">Recruit Holdings</a> and
-            after about 2 years working for them in London, I decided to try out
-            moving to their office in Tokyo.
-          </p>
           <div class="columns is-desktop">
             <div class="column">
               <p>
-                I've been in Japan since September 2017, and around October 2018
-                I moved from Quipper to become an Engineering Manager at
-                <a href="https://about.mercari.com/en/">Mercari</a>. My team is
-                called Engineering Office and we're a team of engineers and
-                non-engineers converted into Technical Program Managers, working
-                on projects to improve the overall practices and processes among
-                Mercari engineering teams and provide a better employee
-                experience to all engineers and leaders of the Engineering
-                division (~300 people).
+                Quipper was acquired by the giant Japanese corporation
+                <a href="https://recruit-holdings.com/">Recruit Holdings</a> and
+                after about 2 years working for them in London, I decided to try
+                out moving to their office in Tokyo.
               </p>
               <p>
-                I wrote an article about how we're
+                ---
+              </p>
+              <p>
+                I've been in Japan since September 2017, and around October 2018
+                I moved from Quipper to become an Engineering Program Manager at
+                <a href="https://about.mercari.com/en/">Mercari</a>. I've
+                managed a team called Engineering Office, composed of technical
+                program managers (engineers and non-engineers), working on
+                technical trainings and projects to improve the overall
+                engineering culture at Mercari. At that time, I wrote an article
+                exaplaining our approach to
                 <a
                   href="/shaping-engineering-culture-in-a-chaotic-environment-part-1"
                 >
                   shaping the Engineering culture in a chaotic environment
                 </a>
-                , and I plan on sharing more about my work in the future.
+                .
+              </p>
+              <p>
+                After working with people-centric programs on the engineering
+                divison, I've now moved to manage the People Programs team, a
+                team focused on company-wide D&I (Diversity & Inclusion) and L&D
+                (Learning & Development) programs. In this team we manage all
+                programs related to diversity & inclusion, onboarding and
+                training of new employees and leadership development for
+                managers, focused on strategy, execution and people management.
+                <a href="https://mercan.mercari.com/en/articles/24520/">
+                  This Mercan article
+                </a>
+                explains a bit about the background and scope of the People
+                Programs team.
               </p>
             </div>
             <div class="column">
+              <figure class="image">
+                <opti-image
+                  :src="
+                    require('~/assets/uploads/quipper-london-jan2016.png').src
+                  "
+                  :srcset="
+                    require('~/assets/uploads/quipper-london-jan2016.png')
+                      .srcSet
+                  "
+                />
+                <figcaption>
+                  Quipper London team, January 2016
+                </figcaption>
+              </figure>
               <figure class="image">
                 <opti-image
                   :src="require('~/assets/uploads/mercari-build.jpg').src"
