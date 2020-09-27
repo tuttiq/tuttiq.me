@@ -59,7 +59,7 @@ export default {
   margin-top: initial;
 }
 .is-one-quarter {
-  padding: 0 20px;
+  padding: 0.75em 2em;
   &.right-sidebar {
     border-left: 1px solid #eee;
   }

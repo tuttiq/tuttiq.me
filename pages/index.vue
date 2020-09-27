@@ -40,8 +40,8 @@
           <p class="is-size-7 is-size-6-widescreen is-size-6-mobile">
             💻 <code>@tuttiq</code> <br />
             🗣 She / her / hers<br />
-            From 🇧🇷, living in 🇯🇵<br />
-            💼 Eng. Manager @
+            From 🇧🇷 → 🇬🇧 → 🇯🇵<br />
+            💼 Manager @
             <a href="https://about.mercari.com/en/" target="_blank">Mercari</a>
             <br />
             🎗️ Director @
@@ -56,21 +56,23 @@
           </span>
           <blockquote class="twitter-tweet">
             <p lang="en" dir="ltr">
-              “Glue work is the difference between a project that succeeds and
-              one that fails”<br /><br />
-              In teams without a project manager, it is likely to be considered
-              “non-promotable” work.<br /><br />Who should do it then? How to
-              recognize this work?<br /><br />Amazing piece by
-              <a href="https://twitter.com/whereistanya?ref_src=twsrc%5Etfw">
-                @whereistanya
+              STOP THE JAPANESE INTERNET! IT IS FINALLY HERE!<br /><br />
+              We are finally launching
+              <a
+                href="https://twitter.com/hashtag/SpeakHerJp?src=hash&amp;ref_src=twsrc%5Etfw"
+              >
+                #SpeakHerJp
               </a>
-              <a href="https://t.co/PMHNNdEZzK">https://t.co/PMHNNdEZzK</a>
+              : An online database of women speakers in Japan!! 🎉<br /><br />
+              Yes, WE ARE HERE! And your event does not have to be all male
+              speakers 👊
+              <a href="https://t.co/8YoOGwPlRo">https://t.co/8YoOGwPlRo</a>
             </p>
-            &mdash; Tutti Quintella (@tuttiq)
+            &mdash; Tutti Q. 🍒 (@tuttiq)
             <a
-              href="https://twitter.com/tuttiq/status/1228537993750663168?ref_src=twsrc%5Etfw"
+              href="https://twitter.com/tuttiq/status/1300410209014169601?ref_src=twsrc%5Etfw"
             >
-              February 15, 2020
+              August 31, 2020
             </a>
           </blockquote>
         </div>
@@ -119,9 +121,7 @@ export default {
   margin: auto;
 }
 
-.twitter-tweet {
-  padding-top: 1em;
-  margin-left: auto;
-  margin-right: auto;
+.twitter-tweet iframe {
+  border: none;
 }
 </style>
