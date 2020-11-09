@@ -44,9 +44,7 @@ If we look at history, women were highly involved in the early ages of computer 
 
 But after 1984, around the same time personal computers became a thing, the numbers of women in tech started dropping drastically and so far haven’t recovered. One of the main reasons is that [personal computers were marketed as ‘toys for boys’](https://www.weforum.org/agenda/2015/12/where-are-the-missing-women-in-tech/). Since gender roles and stereotypes were already fairly strong in society, the push from the marketing and entertainment industry just emphasized that narrative.
 
-|![](https://lh4.googleusercontent.com/RjP33CANo_LDPEBAk9GnigWzKKj0GO8y3goMGmRRIXWIBCqT78sdNADgBHjt9aPbqy9hFL7eEuGm3iAjNatKtFLJtyrrPjBVfuB3rjzqgbcr1BqKw8jth3s3243kb5-rqFLic_DC)| ![](https://lh6.googleusercontent.com/-BAB7hNjXkOxYPrz_TY7g7rofM2KybsBrqpf8gujuTLNIkYt4uDn1-nF49FMeKuKqUT8pjXqUd6gEuLY3tJri_jyanbJdNNKEkra9qEtqQafx2kmVsxunzowtlDA4enrh0bDaICs) |
-|---|---|
-| Credit: Fisher Price Fun With Food: Retro Toy Food (1988) | Credit: The Classic Computer Magazine Archive |
+![Credit: Fisher Price Fun With Food: Retro Toy Food (1988) / The Classic Computer Magazine Archive](/uploads/toys_collage.png)
 
 > *‘But aren't stereotypes a result of tendency or observation of reality? Are women really interested in computer science? Women seem to be naturally more inclined and/or better at humanities.’*
 
