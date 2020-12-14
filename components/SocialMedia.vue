@@ -1,7 +1,7 @@
 <template>
   <div class="social columns is-mobile">
     <div class="column has-text-centered">
-      <a title="Facebook" href="https://facebook.com/tuttiquintella">
+      <a title="Facebook" href="https://www.facebook.com/tuttiq.me">
         <img src="img/facebook.svg" alt="Facebook" />
       </a>
     </div>
