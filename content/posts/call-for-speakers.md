@@ -1,6 +1,6 @@
 ---
-title: Call For Speakers
-subtitle: Applying and speaking at conferences
+title: "Call For Speakers: Applying and speaking at conferences"
+subtitle: "Illustrated article based on my public talk! #talkception"
 category:
   - Career
   - Leadership
@@ -162,9 +162,11 @@ But after I write the script, my recommendation is that you **don't use it** on 
 
 So my recommendation here is to summarize your script in 3~4 bullet points with only **keywords** (no structured sentences) per slide and add it to the speaker notes section of your slides. This will help you glance at the keywords and remember what you wanted to say, but you'll say it naturally and not sound like a robot reading a script.
 
+In any case, one important thing is that when the day of your talk comes, you try to just relax and not worry too much about it. Accept that your first few times will suck, and that's normal. Everything gets better with practice over time, and public speaking is no different.  
+
 ### That's it!
 
-Once you've decided to start public speaking, if you're in Japan, me and two friends created this cool site called [SpeakHer.jp](https://speakher.jp/). It's an online database of women speakers in Japan, an effort to end all-male panels and bring women's voices into a variety of topics in Japan. Go ahead and [add yourself to the database](https://speakher.jp/nominate-speaker) so event organizers can find and contact you about public speaking engagements (all contact is moderated by us to protect your privacy and avoid spam)! 
+Once you've decided to start public speaking, if you're in Japan, me and two friends ([Ann Kilzer](https://twitter.com/stonecoldkilzer) and [Yan Fan](https://twitter.com/yanarchy)) created this cool site called [SpeakHer.jp](https://speakher.jp/). It's an online database of women speakers in Japan, an effort to end all-male panels and bring women's voices into a variety of topics in Japan. Go ahead and [add yourself to the database](https://speakher.jp/nominate-speaker) so event organizers can find and contact you about public speaking engagements (all contact is moderated by us to protect your privacy and avoid spam)! 
 
 ![](https://lh4.googleusercontent.com/OKrZ141TrjfbICMdGROUqsMPsDIaZwquomj7Hig5RD_xM1iY3oHSi-OomkCNfusik_BmiBsOCFr9ElDB7nzTuYodaY-sM3dir25u2TBV_d4dxATEfG8fRvf74Odzq0ARB-v4C9P8)
 
