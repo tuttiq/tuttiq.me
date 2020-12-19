@@ -16,6 +16,8 @@ featureImage: /uploads/about-hero.jpg
 ---
 ![](https://lh5.googleusercontent.com/OhUonLMDXNsNMEyCSkZH0WyH5-_eZR_bSEXDFZNPcg6wCLgUfV2yQtkooxy8mBunS_cMSnJwMkWwrS9xrCnQPAcp9OrI4IvdPaxKzCI9F2FKhJL4cAiatMI4SP-sm7XUomRBv90V)
 
+*Grab & share the slide deck on [my SpeakerDeck](https://speakerdeck.com/tuttiq/call-for-speakers-applying-and-speaking-at-conferences)*
+
 I was recently invited to give this talk at one of our Women Who Code events. A talk about talking #talkception. Anyways, after putting together some pretty slides on Canva.com and writing a few speaker notes and memos for my presentation, I thought I'd polish my notes and make it an illustrated article, because… why not? So here it is.
 
 ![](https://lh5.googleusercontent.com/MzNW4tdSoy76Uz9Uw3KBIyoKSFbZKZElfC_x_X4d-bFDCvprUrt7RcxxnghXnrG1egEQ2Jca5dB-4lTCrdZsp2VYH7VIhhhpej2cd2CYEA3qRdtKt_yIa6QX_x5wfVTy8eYBkXrh)
@@ -171,3 +173,5 @@ Once you've decided to start public speaking, if you're in Japan, me and two fri
 ![](https://lh4.googleusercontent.com/OKrZ141TrjfbICMdGROUqsMPsDIaZwquomj7Hig5RD_xM1iY3oHSi-OomkCNfusik_BmiBsOCFr9ElDB7nzTuYodaY-sM3dir25u2TBV_d4dxATEfG8fRvf74Odzq0ARB-v4C9P8)
 
 Thank you for reading my illustrated article :)
+
+*Grab & share the slide deck on [my SpeakerDeck](https://speakerdeck.com/tuttiq/call-for-speakers-applying-and-speaking-at-conferences)*
