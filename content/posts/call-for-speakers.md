@@ -20,8 +20,6 @@ I was recently invited to give this talk at one of our Women Who Code events. A 
 
 ![](https://lh5.googleusercontent.com/MzNW4tdSoy76Uz9Uw3KBIyoKSFbZKZElfC_x_X4d-bFDCvprUrt7RcxxnghXnrG1egEQ2Jca5dB-4lTCrdZsp2VYH7VIhhhpej2cd2CYEA3qRdtKt_yIa6QX_x5wfVTy8eYBkXrh)
 
-
-
 I started getting myself comfortable in front of larger crowds around my first year of college. Actually, at that time I was teaching English to kids on the weekends, so it was a very unique (and loud) crowd. But beyond that, I soon got involved in activities inside my university campus like leading the student union, then the sports league. In those activities, I often had to give announcements, organize and host big events or even fundraise on the campus, so I got used to speaking in front of people. And most importantly, I got used to messing up or looking stupid in front of people (yeah, it happens all the time), so I kind of had to overcome that fear early on. This does not mean it gets less nerve-wracking over time, I still get nervous every single time. But I just got used to being uncomfortable, so it's less scary now.
 
 In 2018 I started officially speaking at tech conferences and large events, as an organizer or guest speaker. That's when I learned how to craft talk proposals, speaker bio, polish my content, etc. I tried to summarize the steps and what I've learned in 4 sections:
@@ -56,19 +54,19 @@ Ok, now we can move forward to…
 
 ![](https://lh6.googleusercontent.com/XvPM4YHH7ZY-iOs7AIN5nEciIcTn2LlQ2CRV2mvBtOgisQiLUznKQ5_LMzboihgVP7QVxgFYb5J9mgMAg1IOgPjOiBNHS4D4jURwhcpg4iPNh7IjnP_RFnRh_OCRtSKKCSDBRGV4)
 
-Ok, so let's talk about choosing a topic to talk about. As I briefly mentioned before, you probably don't wanna make it a lecture, where you just replicate general or conceptual knowledge you found on a textbook, Wikipedia or WikiHow. That not only has little value more than a Google search on the topic, but it also takes you to the rabbit hole of insecurity, because you're repeating what other authors said and not your personal views, you're gonna keep wondering "How can I make sure what I'm saying is 100% correct?" and end up overcompensating to find evidence, cite credible sources for everything, etc.
+As I briefly mentioned before, you probably don't wanna make it a lecture, where you just replicate general or conceptual knowledge you found on a textbook, Wikipedia or WikiHow. That not only has little value more than a Google search on the topic, but it also takes you to the rabbit hole of insecurity, because you're repeating what other authors said and not your personal views, you're gonna keep wondering *"How can I make sure what I'm saying is 100% correct?"* and end up overcompensating to find evidence, cite credible sources for everything, etc.
 
 On the other hand, as much as can choose to talk purely about a personal experience, you may end up with a talk that sounds more like your diary or a session of stand-up comedy, from which the audience may not be able to take any useful insights if you don't structure it in a meaningful way.
 
-So my advice here is to look for that sweet balance where your personal experience expands or exemplify some conceptual industry knowledge. For example, I read tons of articles about "effective leadership" and also been to leadership training throughout my career. But whenever I create content about leadership practices, I always like to link it to my personal experience and real-life anecdotes as a manager. It's especially interesting when the real-life experience goes against theoretical knowledge, cause it reminds us why theoretical knowledge is exactly that: theory only.
+So my advice here is to look for that sweet balance where your personal experience expands or exemplify some conceptual industry knowledge. For example, I read tons of articles about "effective leadership" and I also have been to leadership trainings throughout my career. But whenever I create content about leadership practices, I always like to link it to my personal experience and real-life anecdotes as a manager. It's especially interesting when the real-life experience goes against theoretical knowledge, cause it reminds us why theoretical knowledge is exactly that: theory only.
 
 Here are some useful questions to help brainstorming on topics you can talk about:
 
 ![](https://lh5.googleusercontent.com/pr1Kre2dlRA2fJ507R5Xve8IwZWIGq_wB2mrg0N4Em2srIcElQYQNpSQ6HSsArmFZdxFR36p7tVf5peGW5RfBVhofj4E37UZmv9-eyX6NApYs9u9jRQTtfKMn__0zko9vEiTPnZg)
 
-For your first talks, it may be easier to start with something broad like "What do you care about?" or "What have you done?". As an example, when I started public speaking officially, my first talk was "Intro to the Software Development World" where I explained the basic jargon programmers use and where to start learning depending on what you want to accomplish. That was because I really care about making tech a more inclusive space, and I wanted to tell people who are interested in learning to code to not be scared of technical jargon, and that the path to learning programming is different depending on what you want to build using code. After that, on the line of "What have you done?" my second talk was about refactoring code and cleaning up technical debt, that was right after I did a big refactor at my job and I had just joined a "Code Health" project to help cleaning technical debt, so it was pretty easy to talk about something I had literally just done a few weeks earlier.
+For your first talks, it may be easier to start with something broad like *"What do you care about?"* or *"What have you done?".* As an example, when I started public speaking officially, my first talk was *"Intro to the Software Development World"* where I explained the basic jargon programmers use and where to start learning depending on what you want to accomplish. That was because I really care about making tech a more inclusive space, and I wanted to tell people who are interested in learning to code to not be scared of technical jargon, and that the path to learning programming is different depending on what you want to build using code. After that, on the line of *"What have you done?"* my second talk was about refactoring code and cleaning up technical debt, that was right after I did a big refactor at my job and I had just joined a *"Code Health"* project to help cleaning technical debt, so it was pretty easy to talk about something I had literally just done a few weeks earlier.
 
-After the first talks, I particularly like to explore topics that fit into the questions "What do you wish someone told you a year ago?" and "What was the last article/presentation you disagreed with or felt was not good enough?". These are a bit more challenging and require some extra confidence in your personal experiences, especially when you'll explore a controversial opinion on a certain topic.
+After the first talks, I particularly like to explore topics that fit into the questions *"What do you wish someone told you a year ago?"* and *"What was the last article/presentation you disagreed with or felt was not good enough?"*. These are a bit more challenging and require some extra confidence in your personal experiences, especially when you'll explore a controversial opinion on a certain topic.
 
 ![](https://lh6.googleusercontent.com/4i9i-8_Ix-GtY8h0JyY_or23MaUuz_XV_aQQi-Rr4ByhNHBAK_poffdqi9kAv8vcm9GsAsPSjUXaVm6OONUOPpXqulwKwDfOdbkIHghWmdjWLExxMZvS90qZqECc4h5S1yzsdUtS)
 
@@ -82,7 +80,7 @@ Of course, if you don't have a specific event in mind before you start working o
 
 When crafting a speaker bio, I really like this advice I learned on the [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/) workshop: focus on answering the question "Why are you qualified to talk about this topic?". And of course, it doesn't have to be that you are an expert with years of experience on the matter, it could very well be because you're talking about a personal experience in a project or activity you were part of. This also means that you'll usually have a slightly different bio for each of your talk proposals.
 
-Needless to say you should follow whatever guidelines the event application gives you and another rule of thumb is to always write your bio in the third person.
+Needless to say, you should follow whatever guidelines the event application gives you, and another rule of thumb is to always write your bio in the third person.
 
 ### Crafting your content
 
@@ -103,21 +101,17 @@ The most common I know and like to use is:
 3. Possibilities, solution attempts, trial & error and/or unexpected events that happened or were discovered along the way;
 4. End showing results and/or a conclusion, maybe lessons learned. Could have a hook to what's next.
 
-This classic storytelling framework helps to shape the dynamic of your talk, and guides your audience to reach the same conclusion that you're presenting, reinforcing the message.
+This classic storytelling framework helps to shape the dynamic of your talk and guides your audience to reach the same conclusion that you're presenting, reinforcing the message.
 
-For a more lecture or workshop style talk, you can follow a similar framework, but more based on steps to get to the end: where to start, what comes next, possibilities from there and conclusion (what can you do or how to move forward after this workshop).
+For a more lecture or workshop-style talk, you can follow a similar framework, but more based on steps to get to the end: where to start, what comes next, possibilities from there and conclusion (what can you do or how to move forward after this workshop).
 
 ### Slide design
 
 You don't need to be an expert in design or a super creative person to make decent slide design. Just compare the examples below:
 
-![](https://lh5.googleusercontent.com/1Yn9seZAT86aQIskiw4m7OUfphw5Xy9BAyrNjaYwRFAQa_WC1DrEj4-GI_Vr-CwbFnSNCUH_moy2dgm5VpEtQHsblujiUR6gTmwwtZGaAMVp_TG1DfRkxaLWwgsrKH_0jFiVuZza)
+![Bad slide design](https://lh5.googleusercontent.com/1Yn9seZAT86aQIskiw4m7OUfphw5Xy9BAyrNjaYwRFAQa_WC1DrEj4-GI_Vr-CwbFnSNCUH_moy2dgm5VpEtQHsblujiUR6gTmwwtZGaAMVp_TG1DfRkxaLWwgsrKH_0jFiVuZza "Bad slide design")
 
-Bad slide design
-
-![](https://lh4.googleusercontent.com/lRbC_6ckb9DLGGnd-aKvm2rt0j0C5pO-tHvO2OFkFGaiBmTJTzS0gfgMOZNemFmXTj73w4FJOGPuT5joMmHT0W7jKDP1upT3aSk0V06sGfXBO2LsF7KB-YragqnHqmTywmG9qrme)
-
-Better slide design (not perfect or great, but good enough)
+![Better slide design (not perfect or great, but good enough)](https://lh4.googleusercontent.com/lRbC_6ckb9DLGGnd-aKvm2rt0j0C5pO-tHvO2OFkFGaiBmTJTzS0gfgMOZNemFmXTj73w4FJOGPuT5joMmHT0W7jKDP1upT3aSk0V06sGfXBO2LsF7KB-YragqnHqmTywmG9qrme "Better slide design (not perfect or great, but good enough)")
 
 Just following the few good practices listed above you can avoid the pitfall of terrible slide design. Luckily, we have those awesome online resources to help creating pretty cool slides:
 
@@ -130,11 +124,9 @@ Just following the few good practices listed above you can avoid the pitfall of 
 
 ![](https://lh6.googleusercontent.com/cUETGgtOLjaqf6p6maOROFHvRo0V4yoe9ogCTsMGSxDc53FTMHvcj2c-qFdlY05EcoxRrE_YeIzjeUFDIGL4hhRHtIQBndp_ezkBOHEj5ijcl-hu24QWQfFK71M3ofWgPbyzrcuQ)
 
-
-
 Lastly, language & tone will shape the feelings and impressions your audience will have from your presentation, so it's important to be at least aware and a little intentional about this.
 
-On using more inclusive language, you should be mindful about pronouns, stereotypes, cultural or regional references, etc. Depending on the event or context that you are in, consider if part of your audience may not be 100% fluent in the language you're speaking, you may want to avoid local slangs, speaking too fast, using figures of speech, or making jokes that don't translate well. And of course, remember your target audience and mind the level of fluency you expect them to have in the topic you're talking about, you may want to explain acronyms or technical terms you don't expect everyone to know.
+On using more inclusive language, you should be mindful of pronouns, stereotypes, cultural or regional references, etc. Depending on the event or context that you are in, consider if part of your audience may not be 100% fluent in the language you're speaking, you may want to avoid local slangs, speaking too fast, using figures of speech, or making jokes that don't translate well. And of course, remember your target audience and mind the level of fluency you expect them to have in the topic you're talking about, you may want to explain acronyms or technical terms you don't expect everyone to know.
 
 For the tone, I generally don't feel the need to be super intentional about it, but my rule of thumb is to avoid extremes. I want it to be informative, but not a university lecture; funny, but not purely a stand-up comedy show; honest, but not self-deprecating; inspiring, but not blindly optimistic or like a sales pitch.
 
@@ -143,8 +135,6 @@ In any case...
 ![](https://lh6.googleusercontent.com/9JtjythDBVHTWVvPJfkuyyzRDjJoEf2VMxV_9N-eNE4zzedjmP5R3nN0zeGScGrJcu7xL8cXVE0k4iHjvGsNQu4Xyltr2eJXduOzOEd6Yt42gq4JNxWK-MOE2roQlH8ef1UVYHIM)
 
 ### Applying and preparing for your talk
-
-
 
 ![](https://lh3.googleusercontent.com/_M2GLTuELNrwleDiq1_hjizFdP4sDvyKZ5pUvdEat5ftsoXErfViWpztnynAm1L3Km06vmgNqOn5HU2zeDbtyqlbV-ia1pGLD94Z_HjiiA8L6tG1y2sBkoaey768fn0RSvHwc2uf)
 
@@ -168,9 +158,9 @@ This is a personal tip, I like writing scripts because it's almost like a practi
 * Writing down helps me polish and memorize what I wanna say
 * I can write down jokes or observations that are not on the slides but I want to remember to say it
 
-But after I write the script, my recommendation is that you don't use it on the day of your presentation. It's kinda obvious when a presenter is reading a script, it doesn't sound natural and it brings down the tone and dynamic of the talk, it could sound boring or awkward.
+But after I write the script, my recommendation is that you **don't use it** on the day of your presentation. It's kinda obvious when a presenter is reading a script, it doesn't sound natural and it brings down the tone and dynamic of the talk, it could sound boring or awkward.
 
-So my recommendation here is to summarize your script in 3~4 bullet points with only keywords (no structured sentences) per slide and add it to the speaker notes section of your slides. This will help you glance at the keywords and remember what you wanted to say, but you'll say it naturally and not sound like a robot reading a script.
+So my recommendation here is to summarize your script in 3~4 bullet points with only **keywords** (no structured sentences) per slide and add it to the speaker notes section of your slides. This will help you glance at the keywords and remember what you wanted to say, but you'll say it naturally and not sound like a robot reading a script.
 
 ### That's it!
 
