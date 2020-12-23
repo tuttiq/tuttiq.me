@@ -88,6 +88,14 @@ Part of what makes diverse teams better is that they are usually a more accurate
 
 ![Credit: The deadly truth about a world built for men – from stab vests to car crashes](https://lh4.googleusercontent.com/i5DXx9rz_UjHevXSeIFLHFiiGHEvqKXiLtDWO6I-3TGAj_OeCFuhDQ83243u52n-wMYfkQxRNoRsXzzqEDISKQD3BFpP82XSSEZ5Vcq63IMQIUZtiNdJktH2LaN7sd-VZ17tE4_S)
 
+### The world is changing, diversity & inclusion are becoming critical aspects of strategic business growth
+
+[Research](https://www.forbes.com/sites/glennllopis/2018/10/14/inclusion-as-a-growth-strategy-part-1-the-last-remaining-true-growth-opportunity/?sh=245023f47978) shows that the newer generations are becoming more diverse than ever, with projections for diverse groups reaching critical mass in several markets by 2043.
+
+![Generation Z and The Cultural Demographic Shift (CREDIT: GLENN LLOPIS GROUP)](https://miro.medium.com/max/960/0*F5xoGp_atnGCLteL.jpg)
+
+In a reality like this, not only diversity & inclusion are becoming a critical factor in maintaining your business for the years to come, but more so in growing and expanding to different markets. If your company and leaders cannot adapt to work with a diverse workforce, soon enough your growth options will be pretty limited.
+
 ### Diverse leadership is correlated with business success
 
 In 2017, McKinsey [published a study](https://www.mckinsey.com/featured-insights/gender-equality/women-matter-ten-years-of-insights-on-gender-diversity#) with 300 global companies across 10 different countries that showed that companies with the most women on their executive committees had a 47% higher average return on equity than those with none, and 55% higher operating results.
