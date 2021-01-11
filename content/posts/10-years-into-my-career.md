@@ -1,6 +1,6 @@
 ---
-title: 10 Years Into My Career
-subtitle: And lessons learned so far
+title: 10 Years Into My Career (& lessons learned so far)
+subtitle: From software engineer to group manager. From São Paulo to London and Tokyo.
 category:
   - Career
 tags:
@@ -17,7 +17,7 @@ featureImage: /uploads/00-cover2.jpg
 ---
 2021 marks exactly 10 years that I "officially" started my career. It's been a ride and I'd like to use this moment to reflect on my journey and some of my lessons learned so far. But first...
 
-![A slide with my profile photo and bullet points summarizing my self-introduction](/uploads/01-awhoami.png)
+![](/uploads/01-awhoami.png)
 
 If you don't know me or haven't had the chance to read my self-intro somewhere else, I'm Tutti ([@tuttiq](https://twitter.com/tuttiq) online), and I'm originally from São Paulo, Brazil, where I majored in Computer Engineering and started my career as a software engineer. After a few years working in Brazil, I moved to London (UK) for about 2 years, working as a web developer, and after that, I moved to Tokyo (Japan), where I have been for the last 3 years.
 
@@ -35,7 +35,7 @@ Little did I know that majoring in Computer Engineering was a little bit more th
 
 But college is so much more than just going to class and studying for tests. Around my second year, I decided to step up and get involved with a bunch of extra-curricular activities. I found out about the Computer Engineering Student Union ([a student-led council/organization to support student's rights and experience on campus](https://en.wikipedia.org/wiki/Students%27_union)), so I formed a party and we were elected for the upcoming term. I also joined as secretary-general of the Engineering Sports League, where we organized sports teams and events for all engineering majors.
 
-![One photo of me in my graduation gown, the logos of the student organizations and two group photos in college](/uploads/01-college.png "Don't be fooled by the smiles and drinks in our hands, there are obviously no photos of us having official meetings late at night, yelling at each other during stressful events, struggling to manage our budget and marketing strategy, etc...")
+![Don't be fooled by the smiles and drinks in our hands, there are obviously no photos of us having official meetings late at night, yelling at each other during stressful events, struggling to manage our budget and marketing strategy, etc...](/uploads/01-college.png "Don't be fooled by the smiles and drinks in our hands, there are obviously no photos of us having official meetings late at night, yelling at each other during stressful events, struggling to manage our budget and marketing strategy, etc...")
 
 After about 2 years in these organizations and a lot of lessons learned, we stepped down and handed it over to newer students for the following term. I then started looking for internships to fulfill my required credits.
 
@@ -47,13 +47,13 @@ I got my first internship as a Java web developer at a local R&D institute where
 
 During my second year of internship (it was optional, but I chose to do 2 full years of internships), I had to start my capstone project to get my degree. It was a solo project where we had to find a "real" client and then develop a full system on their request using a lot of what we learned throughout the whole major. It involved consulting, designing the solution, planning the whole project timeline, a test plan, plus implementing, deploying and validating the whole system in the end. Now that I look back, that was one of my most solid experiences as a software engineer (but at the time I was freaking out about how much work I had to do). 
 
-![A photo of the three printed copies of my thesis and a screenshot of the system I developed for my capstone project](/uploads/02-college.png "My capstone project: [WebClinica](/uploads/02-college.png)
+![My capstone project: WebClinica, a doctor's office management system made for my mom and 3 other doctors. I still wanna write a separate article about this project.](/uploads/02-college.png "My capstone project: WebClinica, a doctor's office management system made for my mom and 3 other doctors. I still wanna write a separate article about this project.")
 
 When my internships were over, I got a bit worried about not having a fixed income anymore, so even if I hadn't graduated yet, I got a full-time job as Ruby on Rails developer at a local startup. It was a little crazy because I was juggling my classes, the capstone project, and working (more than) full-time at the startup. I definitely learned a lot during that year, but it meant I had to postpone my graduation. Eventually, I decided to leave my job to focus on graduating, and so, after a total of 6.5 years, I finally got my degree (for reference, the original duration of my major was supposed to be 5 years). 
 
 I didn't even have my diploma printed out yet when I got a new job as a mobile engineer at Samsung Brazil, mainly using Java to develop Android apps. Not long after I joined, my team was assigned to an international project and I had the chance to visit South Korea on a business trip. That was my first time visiting Asia and experiencing the multitude of emotions that was a 30-hour flight from São Paulo to Suwon (I don't recommend it). I stayed in Korea for only one month, but it was an eye-opening moment of my life. The culture shock, the language barrier, the food and even the crazy work hours. I realized how much there was to see and experience outside of my bubble in Brazil and somehow it seemed within my reach. That's when I decided I wanted to work abroad.
 
-![A photo of me in the evening in front of the lit up gate of Samsung Digital City in Suwon, South Korea](/uploads/03-c_samsung.jpg "Samsung Digital City in Suwon, South Korea")
+![Samsung Digital City in Suwon, South Korea](/uploads/03-c_samsung.jpg "Samsung Digital City in Suwon, South Korea")
 
 ## From São Paulo to the world
 
@@ -61,7 +61,7 @@ I came back from Korea and just a few months later I started looking for opportu
 
 Although the moving process and obtaining the visa were stressful, moving to London was a life-changing experience. It was my first time in Europe, my first time living abroad and my first time using English as my main language. And because we also had a pretty decent work-life balance, I was able to travel a bit around Europe while I was there (and Brexit hadn't happened yet lol).
 
-![One photo of me and two friends in front of the Big Ben, photos of the Quipper UK team in the office, with a ping-pong table.](/uploads/03-london.png "We used to have a ping-pong match after every stand-up, but that space was frequently turned into our lunch table or conference room when needed too.")
+![We used to have a ping-pong match after every stand-up, but that space was frequently turned into our lunch table or conference room when needed too.](/uploads/03-london.png "We used to have a ping-pong match after every stand-up, but that space was frequently turned into our lunch table or conference room when needed too.")
 
 After about 1.5 years of great experiences and learnings at Quipper UK, I was starting to think about my next career step. One interesting fact about Quipper is that, despite having an HQ based in London at that time, they didn't sell their product in the UK. Their main target markets were Japan, the Philippines, Indonesia, and Mexico (and they also had much larger offices in these countries than the HQ in London). Also, exactly in the year that I joined, Quipper had been acquired by a large Japanese corporation called [Recruit](https://recruit-holdings.com/), which also explained their large operations in Tokyo, Japan.
 
@@ -69,7 +69,7 @@ So, as expected, most of Quipper's efforts were focused on these other countries
 
 Moving to Tokyo was definitely a much less painful process (especially since I had already been through it once), but an even bigger life-changing experience than when I moved to London. There's so much that I can talk about this move, but for the purpose of this article I'll keep it brief and focus on my work experiences here.
 
-![Photos of the Quipper Japan and Quipper Philippines teams. Photos with the teachers at the schools in Manila.](/uploads/04-philippines.png "Visiting and talking to our customers directly and working with a distributed global team was a great experience I was able to have at Quipper")
+![Visiting and talking to our customers directly and working with a distributed global team was a great experience I was able to have at Quipper](/uploads/04-philippines.png "Visiting and talking to our customers directly and working with a distributed global team was a great experience I was able to have at Quipper")
 
 In my first year at Quipper Tokyo, I realized the language was going to be a bigger barrier than anyone had anticipated. Even if a lot of the engineers were able to communicate in pretty decent English, most of the PMs, sales, and corporate side could only speak and understand Japanese, which made my opportunities fairly limited. Because I could not speak Japanese, I was assigned to work on the global product, in collaboration with the team in Manila (Philippines). That worked out well, and I also got to visit Manila quite a few times to meet the team and our customers (the schools using our product), which was a lot of fun. 
 
@@ -81,7 +81,7 @@ Besides my new role as an engineering manager at Quipper, around the same time i
 
 Almost on a nostalgic feeling about my experience leading the student organizations, I quickly decided to get involved with Women Who Code. I talked to the Tokyo directors at the time, [Lena](https://twitter.com/mirka) and [Himi](https://twitter.com/himisanta), and they accepted me as a volunteer and lead for some of their study sessions. Shortly after, I was invited to become a director and help manage the community as well.
 
-![Photos of Women Who Code events: a study session, me as a speaker, a conference in Manila and a big group photo in Tokyo.](/uploads/05-wwcode.png "I got some great experiences and opportunities as a Women Who Code director")
+![I got some great experiences and opportunities as a Women Who Code director](/uploads/05-wwcode.png "I got some great experiences and opportunities as a Women Who Code director")
 
 I've explained in more detail what the team and I have been doing on the Tokyo chapter of WWCode in [this article](https://tuttiq.me/what-women-who-code-is-doing-in-tokyo), but in summary, we organize events and activities for a community of local women in tech, focused on career growth, building skills, networking and more. As a director, it's also part of my role to manage the community, recruit and onboard new volunteers, make partnerships with companies, and manage our finances and operations in general. After joining WWCode I also started to engage in public speaking in a more professional setting. I held talks, participated in panels and applied to speak at many international conferences.
 
@@ -89,7 +89,7 @@ Being a part of dev communities, organizing events, and speaking at conferences 
 
 As part of the Engineering Office team at Mercari, I worked on managing programs for the engineering division. This included things such as improving onboarding and training for engineers. Eventually, we identified a similar need as I had encountered at Quipper previously: to better define the engineering culture and create a career development framework for engineers. That's when I led a big project called the Engineering Career Ladder, in which we revamped the level definitions and evaluation process for engineers ([more about this project in this article](https://tuttiq.me/shaping-engineering-culture-in-a-chaotic-environment-part-1)).
 
-![A screenshot of my article "Shaping Mercari's Engineering Culture" on the Mercari Engineering Blog](/uploads/06-amercari.png)
+![](/uploads/06-amercari.png)
 
 With my background as a tech lead and engineering manager, I was soon promoted to manage a team of technical program managers at Mercari. I was still fairly new to program management and leading the team was a big challenge for me, but we were learning and growing together as a team. At the same time, I was still involved with Women Who Code and proactively organizing the community on the side. With a lot of support from my manager at the time, I was able to start several partnerships and collaborations between Women Who Code and Mercari, contributing to Mercari's diversity & inclusion efforts.
 
@@ -99,7 +99,7 @@ After a few successful projects as part of the Engineering Office and plenty of 
 
 I moved to the People & Culture division, and started with a small team called People Programs, that was in charge of diversity & inclusion, people and leadership development. Six months later, the team had grown a little from internal transfers and we had a better idea of our long-term strategy, so we decided to incorporate the Language Education team into the group, finally launching Mercari's Learning & Development group. From last December, I also took over the management of the Global Operations teams (the internal teams of translators and interpreters), mainly due to a company reorganization, but with the new goal to align the efforts towards people development, diversity & inclusion, language and communication support.
 
-![Screenshots of some of our Leadership Development and Diversity & Inclusion projects at Mercari.](/uploads/06-mercari.png)
+![](/uploads/06-mercari.png)
 
 That's where I am now. I'm currently the group manager for Learning & Development, Diversity & Inclusion and Global Operations at Mercari, leading 4 managers and a total of about ~20 people. I'm still a director of Women Who Code and I'm involved in a [few other side-projects](https://tuttiq.me/projects) like the [SpeakHer website](https://speakher.jp/) and creating my personal content. I also had the pleasure to speak at several events and conferences, and take a few leadership trainings that also had a great impact on my professional and personal life.
 
